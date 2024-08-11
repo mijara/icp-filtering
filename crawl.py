@@ -24,65 +24,12 @@ def exists(url):
     return request.status_code == 200
 
 
-def get_gutenberg_link_from_id(book_id):
-    txt_tmpl1 = 'http://www.gutenberg.org/cache/epub/{}/pg{}.txt'
-    txt_tmpl2 = 'http://www.gutenberg.org/files/{}/{}.txt'
-
-    for tmpl in [txt_tmpl1, txt_tmpl2]:
-        link = tmpl.format(book_id, book_id)
-        if exists(link):
-            return link
-
-    txt_tmpl3 = 'http://www.gutenberg.org/files/{}/{}-{}.txt'
-    # idx = [0, 8] + list(range(1, 8)) + list(range(9, 15))
-    for i in [0, 8]:
-        link = txt_tmpl3.format(book_id, book_id, i)
-        if exists(link):
-            return link
-    return None
-
-
-def get_us_gutenberg_links(outfile, max_id=58910):
-    out = open(outfile, 'w')
-    for book_id in range(1, max_id + 1):
-        link = get_gutenberg_link_from_id(book_id)
-        if link:
-            out.write(link + '\n')
-        else:
-            print("Can't find link for book id", book_id)
-    out.close()
-
 
 def get_id_aus(link):
     id_ = link[link.rfind('/') + 1:link.rfind('.')]
     if id_[-1] == 'h':
         return id_[:-1]
     return id_
-
-
-def get_aus_gutenberg_links(
-        outfile,
-        catalog_file='https://www.gutenberg.org/dirs/GUTINDEX.AUS'):
-    req = urllib.request.Request(catalog_file)
-    response = urllib.request.urlopen(req)
-    page = response.read()
-    page = page.decode('utf-8')
-    html_links = re.findall(
-        r'http://gutenberg.net.au/ebooks[01][0-9]/[0-9]{7}[h]?.html', page)
-    txt_links = re.findall(
-        r'http://gutenberg.net.au/ebooks[01][0-9]/[0-9]{7}.txt', page)
-    seen_ids = set()
-    with open(outfile, 'w') as out:
-        for link in txt_links:
-            out.write(link + '\n')
-            seen_ids.add(get_id_aus(link))
-
-        for link in html_links:
-            book_id = get_id_aus(link)
-            if book_id not in seen_ids:
-                out.write(link + '\n')
-                seen_ids.add(book_id)
-
 
 def to_skip(link, extensions=None, domains=None):
     """ domains can be:
