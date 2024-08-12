@@ -20,7 +20,7 @@ def extract_urls_from_sitemap(sitemap_url):
         return urls
     else:
         print("Failed to retrieve or parse sitemap.")
-        return []
+        return 
 
 def parse_sitemap(content):
     urls = []

@@ -82,7 +82,7 @@ def get_sitemap_urls(sitemap_url):
         return urls
     except Exception as e:
         logging.error(f"Failed to traverse sitemap {sitemap_url}: {e}")
-        return []
+        return sitemap_url.split("/")[:-1]
 
 def extract_domain(website_url):
     return website_url.split(".")[-2]
