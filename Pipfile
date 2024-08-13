@@ -9,6 +9,10 @@ tldextract = "*"
 unidecode = "*"
 justext = "*"
 pybloom = {git = "git+https://github.com/jaybaird/python-bloomfilter/"}
+pandas = "*"
+openpyxl = "*"
+openai = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
