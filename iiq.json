@@ -1,0 +1,121 @@
+{
+    "About": "InsightIQ is a platform that offers influencer marketing solutions, helping brands connect with influencers to promote their products or services through social media channels.",
+    "Mission": "InsightIQ aims to solve the problem of finding the right influencers who align with a brand's values and audience, as well as streamlining the management and tracking of influencer marketing campaigns.",
+    "Products": [
+        "Creator Search",
+        "Campaign Management",
+        "ROI Measurement",
+        "Influencer Database",
+        "Audience Demographics Analysis",
+        "Influencer Relationship Management",
+        "Detailed Analytics",
+        "Influencer Search and Discovery",
+        "API for Influencer Data",
+        "Social Background Verification"
+    ],
+    "Pricing": null,
+    "Customers": [
+        {
+            "Name": "Impulze.Ai",
+            "Industry": "Technology"
+        },
+        {
+            "Name": "Passionfruit",
+            "Industry": "Web Application"
+        },
+        {
+            "Name": "Control Console",
+            "Industry": "Technology"
+        },
+        {
+            "Name": "Brand Advance Group",
+            "Industry": "Creative Agency"
+        },
+        {
+            "Name": "MyRegistry.com",
+            "Industry": "E-commerce"
+        },
+        {
+            "Name": "The Huddle Room",
+            "Industry": "Business Services"
+        },
+        {
+            "Name": "Blockverse Media",
+            "Industry": "Media"
+        },
+        {
+            "Name": "Reliance Brands",
+            "Industry": "Retail"
+        },
+        {
+            "Name": "Blogapalooza Inc.",
+            "Industry": "Digital Media"
+        },
+        {
+            "Name": "BA Diversity Media",
+            "Industry": "Media"
+        }
+    ],
+    "Testimonials": [
+        {
+            "Name": "Manzoor Samad",
+            "Role": "Founder & CTO",
+            "Testimonial": "insightIQ has helped Impulze immensely in scaling our product. We could build both our Chrome extension and Discovery features using them. The best part is the flexibility they provide with data."
+        },
+        {
+            "Name": "Sumit Nihalani",
+            "Role": "Product Engineer",
+            "Testimonial": "I like their product very much, their offerings have helped us build a very important feature in our web app at Passionfroot. Docs are very friendly and the team is always ready to help us ship faster and unblock us if we are confused at any stage."
+        },
+        {
+            "Name": "Till Musshoff",
+            "Role": "Product Engineer",
+            "Testimonial": "insightIQ has enabled us to access creator data from a large number of platforms on day 1 rather than going and integrating with each platform; that was not feasible for us and would have taken a lot of time and effort."
+        },
+        {
+            "Name": "Laura Lane",
+            "Role": "Creative Director",
+            "Testimonial": "InsightIQ lets us search and find influencers based on the creator's interests or things they've talked about. No other platform has been able to do that. And it's been restrictive to find the right influencer for us...until now!"
+        },
+        {
+            "Name": "Emily Cegielski Gianakos",
+            "Role": "Content Director",
+            "Testimonial": "insightIQ is super intuitive. I haven't seen any tool that filters creator data at this granular level before. It's really impressive."
+        },
+        {
+            "Name": "Julia Garcia",
+            "Role": "CEO",
+            "Testimonial": "I think it's quite powerful that insightIQ is able to classify what audience sentiments or comments really mean or bring to the brand."
+        },
+        {
+            "Name": "Tanishq Mehta",
+            "Role": "Founder & Creator",
+            "Testimonial": "We were able to find, filter, and finalize influencers whose audience displayed higher purchase intent. This helped us get our clients better results than ever done before - and with just a few clicks!"
+        },
+        {
+            "Name": "Saad Qureshi",
+            "Role": "Influencer Marketing Lead",
+            "Testimonial": "The insights offered for a creator is exceptional. I can now easily get interesting & highly relevant creator suggestions as well."
+        },
+        {
+            "Name": "Ace Gapuz",
+            "Role": "CEO",
+            "Testimonial": "insightIQ's ability to show the per post engagement rate and then the comments analysis is incredible. That's something we don't find with other solutions."
+        },
+        {
+            "Name": "Chase Greene",
+            "Role": "Influencer Marketing Manager",
+            "Testimonial": "The platform has been awesome. It has made life a lot easier!"
+        }
+    ],
+    "Industries & Segments": [
+        "Technology",
+        "E-commerce",
+        "Digital Media",
+        "Creative Agency",
+        "Web Application",
+        "Business Services",
+        "Retail",
+        "Media"
+    ]
+}

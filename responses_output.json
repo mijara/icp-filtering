@@ -1,0 +1,2955 @@
+{
+    "ubs": [
+        {
+            "About": "We want to create superior value for our clients, shareholders and employees.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "thexlife": [
+        {
+            "About": "The X Company is the real estate development and operations team behind X -- the first and largest branded network of member clubs and private residences in the country.",
+            "Mission": "X Co. exists to improve the way we interact.",
+            "Products": [
+                "professional-quality workspace",
+                "state-of-the-art gym and fitness studio",
+                "apartments including private residences and coliving suites"
+            ],
+            "Pricing": [
+                "Paid parking at $4/hr.",
+                "X Membership and X Wine Club Membership (valued at $200)"
+            ],
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "testimonial": "If you're looking for a management team that's attentive to your residential needs + a 24 hour staff solely dedicated to making your living experience a luxury renter's dream, then I'd say look no further than X Phoenix.",
+                    "name": "Madison",
+                    "role": "conflict resolution and task execution"
+                }
+            ],
+            "Industries & Segments": [
+                "real estate development",
+                "member clubs",
+                "private residences"
+            ]
+        }
+    ],
+    "chamberlaingroup": [
+        {
+            "About": "Chamberlain Group develops smart home and industrial access solutions, including garage door openers and related connectivity technologies.",
+            "Mission": "To redefine intelligent access and provide easier, safer access solutions for homes and businesses.",
+            "Products": [
+                "Garage door openers",
+                "myQ smart home app",
+                "DC motor garage door openers",
+                "Keyless entry systems",
+                "Smart locks (integrated with myQ)",
+                "Video integration products",
+                "Automated gates",
+                "Commercial door operators",
+                "Loading dock equipment",
+                "myQ Connected Garage"
+            ],
+            "Pricing": null,
+            "Customers": {
+                "Names": [
+                    "Amazon",
+                    "Walmart"
+                ],
+                "Industries": [
+                    "Home Retail",
+                    "Commercial Transportation",
+                    "Automotive"
+                ]
+            },
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Residential",
+                "Commercial",
+                "Automotive"
+            ]
+        }
+    ],
+    "cannellamedia": [
+        {
+            "About": null,
+            "Mission": "You can't build a company culture of any caliber without a clear company mission statement explaining your purpose and clarifying why you exist.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": "Take the case of Listen Lively user Brett. He shared how he was initially worried that using a hearing aid would tarnish his image and that one of the joys of his life is riding his motorcycle with his wife. He believed his hearing loss was making it difficult to ride safely. Brett claimed the process of getting his hearing aids from Listen Lively was simple, and his confidence soared because of it.",
+            "Industries & Segments": null
+        }
+    ],
+    "publicissapient": [
+        {
+            "About": "Publicis Sapient helps companies and the public sector keep up with the pace of technological, societal, and cultural change by elevating customer experiences, modernizing organizations, and unlocking value through technology and data.",
+            "Mission": "Digital business transformation to help companies thrive by adopting and integrating technology across all facets of the organization, making customers happier and more loyal.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Nissan, Marriott, Carrefour",
+            "Testimonials": null,
+            "Industries & Segments": "Public sector, automotive industry, hospitality, retail commerce"
+        }
+    ],
+    "thewaltdisneycompany": [
+        {
+            "About": "The Walt Disney Company is a diversified worldwide entertainment company with operations in four business segments: Media Networks, Parks and Resorts, Studio Entertainment, and Consumer Products & Interactive Media.",
+            "Mission": "To entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies.",
+            "Products": [
+                "Disney Theatrical Productions",
+                "Disney's Aladdin on Broadway",
+                "Documentary Adventure Thru the Walt Disney Archives",
+                "Disney+ animated series What If..."
+            ],
+            "Pricing": null,
+            "Customers": "More than 125,000 eligible employees across the country.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Media Networks",
+                "Parks and Resorts",
+                "Studio Entertainment",
+                "Consumer Products & Interactive Media"
+            ]
+        }
+    ],
+    "mccullougharchitects": [
+        {
+            "About": "The company provides design services for developers, builders, and owners, creating significant single-family developments, multi-family buildings, custom single-family homes, mixed-use and commercial projects.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "The company focuses on the architecture industry, specifically on custom homes, multi-family projects, mixed-use, and commercial projects."
+        }
+    ],
+    "grail": [
+        {
+            "About": "GRAIL is a healthcare company innovating to solve medicine's most important challenges.",
+            "Mission": "Our mission is to detect cancer early, when it can be cured.",
+            "Products": [
+                "RUO test"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "name": "Stephanie Guzman",
+                    "role": null
+                },
+                {
+                    "name": "Shawnda Madison",
+                    "role": null
+                },
+                {
+                    "name": "Tina Clarke Dur",
+                    "role": null
+                }
+            ],
+            "Industries & Segments": [
+                "healthcare"
+            ]
+        }
+    ],
+    "tocc": [
+        {
+            "About": "Tohono O'odham Community College is a two-year college for individuals from all walks of life who want to further their education. TOCC primarily serves the residents of the Tohono O'odham Nation, but anyone pursuing a higher education is welcome to attend.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "rippling": [
+        {
+            "About": "Rippling is a single platform that can help your business manage all of its employee data and operations, no matter its size. They offer compliance and HR services, payroll administration, COBRA administration, and more.",
+            "Mission": "To provide a comprehensive platform that helps businesses manage and automate every system from payroll to devices and apps, simplifying employee data and operations management.",
+            "Products": [
+                "Rippling ASO",
+                "COBRA Administration Software",
+                "Rippling Corporate Card",
+                "Expense Management",
+                "Global Benefits Solution",
+                "Global Payroll and Hiring",
+                "Global HRIS"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "Testimonial": "For years I wondered which company in the enterprise space would have the vision to challenge Microsoft, whose holistic view was always more appealing than even the best siloed SaaS apps. Rippling paints a vision of a single source-of-truth for everything employee-related in a company--and a future where Rippling is employers' one-stop shop, impressive in breadth and depth.",
+                    "Name": null,
+                    "Role": null
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "motionrush": [
+        {
+            "About": "Motionrush Media Labs is a full service website design and development agency. Our specialty is creating brands and building audience, We provide intelligent & creative solutions with an eye towards the bottom line - selling, lead generation and brand awareness.",
+            "Mission": "Our mission is to take WordPress to the next level with unparalleled e-commerce, directory and app themes.",
+            "Products": [
+                "WordPress themes",
+                "Holographic stickers",
+                "Apparel"
+            ],
+            "Pricing": null,
+            "Customers": "We've helped thousands of businesses and entrepreneurs build awesome projects.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Jewelry industry",
+                "E-commerce solutions"
+            ]
+        }
+    ],
+    "fairwayindependentmc": [
+        {
+            "About": "Fairway Independent Mortgage Corporation is a mortgage lender dedicated to providing customer service, personalized service, and assisting customers through every step of the loan process from application to closing and beyond. Their goal is to act as a trusted mortgage advisor.",
+            "Mission": "Fairway Independent Mortgage Corporation is dedicated to finding great rates and loan options for customers while offering some of the fastest turn times in the industry. They aim to provide satisfaction and earn trust by exceeding expectations.",
+            "Products": [
+                "Mortgage Loan Options",
+                "Affordable Housing Options",
+                "VA Mortgage Loans",
+                "Fixed- and Adjustable-rate Mortgage Options",
+                "Renovation Loans",
+                "Grants and Forgivable Second Loans"
+            ],
+            "Pricing": null,
+            "Customers": "Fairway serves a broad range of customers, including first-time homebuyers, veterans, and those eligible for state housing programs. Collaborations include organizations like Habitat for Humanity, Hunger Task Force of Wisconsin, and the Brewers Community Foundation.",
+            "Testimonials": [
+                {
+                    "name": "Shannon",
+                    "testimonial": "Very efficient and helpful. Entire process was smooth and coordinated with all parties.",
+                    "location": "Beaufort, SC"
+                },
+                {
+                    "name": "David",
+                    "testimonial": "Shane made the whole process easy to understand and very smooth.",
+                    "location": "Eau Claire, WI"
+                },
+                {
+                    "name": "Mario",
+                    "testimonial": "The experience was fast, easy and helpful. I recommend Fairway to all my friends and family.",
+                    "location": "Nederland, TX"
+                },
+                {
+                    "name": "Marcia",
+                    "testimonial": "Steve took the time to establish a rapport with me and was very friendly and helpful throughout the whole process.",
+                    "location": "Surprise, AZ"
+                },
+                {
+                    "name": "May",
+                    "testimonial": "Susan was patient with my questions and did a thorough job explaining things to me.",
+                    "location": "Framingham, MA"
+                },
+                {
+                    "name": "Carter",
+                    "testimonial": "Positive and encouraging experience for first-time buyers.",
+                    "location": "Los Angeles, CA"
+                },
+                {
+                    "name": "Natalie",
+                    "testimonial": "Marshall was amazing! Made my experience buying my first home a breeze.",
+                    "location": "Tampa, FL"
+                },
+                {
+                    "name": "Sequoia",
+                    "testimonial": "They always answered questions when I asked and worked with me through all of it.",
+                    "location": "Clayton, AL"
+                },
+                {
+                    "name": "Emmanuel",
+                    "testimonial": "The customer service Nicole and Mauri provided was always excellent and professional.",
+                    "location": "Jackson, GA"
+                },
+                {
+                    "name": "Dakota",
+                    "testimonial": "Tom was phenomenal throughout the entire process. He was very responsive and knowledgeable.",
+                    "location": "Merrimack, NH"
+                }
+            ],
+            "Industries & Segments": [
+                "Mortgage Lending",
+                "Home Buying",
+                "Veteran Financing",
+                "Affordable Housing",
+                "Community Service"
+            ]
+        }
+    ],
+    "americancreative": [
+        {
+            "About": "For over 27 years, American Creative has been helping businesses nationwide with effective and affordable marketing services, including custom website development, well-planned internet marketing, on-hold messages for phones, and online videos.",
+            "Mission": "They help small businesses attract new prospects, strengthen and grow relationships with existing clients, and enhance business visibility and brand awareness.",
+            "Products": [
+                "Custom website development",
+                "SEO and digital marketing services",
+                "Internet marketing",
+                "Music on hold players",
+                "Answering machine messages",
+                "Business voicemail greetings",
+                "Commercials on hold"
+            ],
+            "Pricing": null,
+            "Customers": "Serving thousands of companies from the USA and Canada, including industries such as retail stores, insurance agencies, and healthcare businesses.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Small businesses",
+                "Retail",
+                "Insurance",
+                "Healthcare"
+            ]
+        }
+    ],
+    "pachama": [
+        {
+            "About": "Pachama is a mission-driven company looking to restore nature to help address climate change. It brings the latest technology in remote sensing and AI to the world of forest carbon in order to enable forest conservation and restoration to scale.",
+            "Mission": "To restore nature at climate scale, helping address climate change and biodiversity loss through technological advances and nature-based strategies.",
+            "Products": [
+                "AI-based tools for carbon impact assessment",
+                "Pachama marketplace for carbon credits"
+            ],
+            "Pricing": null,
+            "Customers": "Served climate leaders such as Salesforce, Nespresso, Shopify, and Boston Consulting Group.",
+            "Testimonials": "A customer stated, 'We use Pachama's tools to see our carbon impact -- not just at the point of buying, but on an ongoing basis, year after year.'",
+            "Industries & Segments": [
+                "Forest conservation",
+                "Forest restoration",
+                "Carbon markets"
+            ]
+        }
+    ],
+    "uml": [
+        {
+            "About": "UMass Lowell is a national research university committed to preparing students for work in the real world by providing an affordable, high-quality education.",
+            "Mission": "Enable every student to reach their full potential by making accessible a high-quality and affordable education and to solve real-world problems.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": "Salvatore Florio Jr. (Criminal Justice, '20) interned with The U.S. Marshals Service.",
+            "Industries & Segments": null
+        }
+    ],
+    "tubescience": [
+        {
+            "About": "TubeScience specializes in making high-scale performance videos that feel native to social platforms and are designed to be authentic and relatable to the audience.",
+            "Mission": "TubeScience aims to help brands scale customer acquisition, focusing on creative ideation and data-driven performance.",
+            "Products": null,
+            "Pricing": "TubeScience works exclusively with 7-figure monthly spenders but makes exceptions for companies with a large social impact component.",
+            "Customers": "ThirdLove, Truebill, Betabrand, TechStyle Fashion Group",
+            "Testimonials": [
+                {
+                    "name": "Nisho Cherison",
+                    "role": "VP of Growth at ThirdLove",
+                    "testimonial": "TubeScience's approach of blending creative ideation with data is a perfect match for us. Working with Tubescience has enabled us to rapidly scale our acquisition efforts and ultimately drive more customers."
+                },
+                {
+                    "name": "Cameron Mills",
+                    "role": "Growth Marketing Manager at Truebill",
+                    "testimonial": "I've tested lots of external partners, but this company is in a class of its own when it comes to high-scale performance video. They get our brand, work effectively alongside internal creative teams, and consistently deliver the results we need."
+                },
+                {
+                    "name": "Doug Hoggatt",
+                    "role": "VP of Digital Marketing at Betabrand",
+                    "testimonial": "TubeScience is pay-for-performance, and they've been able to deliver pretty exciting scale and efficiency for us."
+                },
+                {
+                    "name": "Laura Jones Joukovski",
+                    "role": "President, Global Fashion Brands at TechStyle Fashion Group",
+                    "testimonial": "TubeScience has become a major driver of our new customer acquisition."
+                }
+            ],
+            "Industries & Segments": "Video and social media-focused brands"
+        }
+    ],
+    "m1b": [
+        {
+            "About": "MarketOne Builders is a construction company committed to holding to the highest standards of quality, performance, and the safety of every worker engaged, specializing in projects in Northern California.",
+            "Mission": "To partner with clients, build trust, and share the common goal of building together.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Clients include Angelino Luxury Apartments, The Sofia (home to the B Street Theatre), Sacramento Kings Executive Offices, Arch Nexus | SAC, and Bogle Cold Storage Warehouse.",
+            "Testimonials": {
+                "Name": "Mike Brown",
+                "Role": "Senior Project Manager",
+                "Testimonial": "We are driven to partner with our clients and build the trust required to be a team. We want to work together with them and share one common goal - build together so that our clients come back and say, 'We want you to do the next one.'"
+            },
+            "Industries & Segments": "Projects delivered range from urban renovations to concrete tilt-ups to state-of-the-art theaters in Northern California."
+        }
+    ],
+    "pinwheel": [
+        {
+            "About": "Helps you guide your child from their first phone to independent, responsible use of technology.",
+            "Mission": "Supports parents in guiding their children to healthy tech habits and reducing conflict.",
+            "Products": [
+                "Pinwheel Phone",
+                "Aria Pod+",
+                "PinwheelGPT",
+                "Plus 4 Screen Protector",
+                "Slim 6 Screen Protector",
+                "Genesis Screen Protector",
+                "Slim 5 Case",
+                "Pixel 7A Screen Protector",
+                "Pixel 6A Screen Protector"
+            ],
+            "Pricing": [
+                "PinwheelGPT: Free up to 20 conversations per month",
+                "$19.99 per month subscription",
+                "$79.99 annual subscription"
+            ],
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "testimonial": "I've never been more impressed with a smartphone built for kids.",
+                    "name": "Sarah Kimmel",
+                    "role": "Tech Expert"
+                },
+                {
+                    "testimonial": "Great phone first phone for kids!",
+                    "name": "Kristina Burrow"
+                },
+                {
+                    "testimonial": "Love, love, love Pinwheel!",
+                    "name": "Marie Ballif"
+                },
+                {
+                    "testimonial": "She said it was her best birthday ever!",
+                    "name": "Kimber Carothers"
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "rush": [
+        {
+            "About": null,
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": "RUSH University Medical Center and RUSH Oak Park Hospital",
+            "Testimonials": "Luan Elezi, MD, family medicine physician, Rush Concierge Medicine: \"My goal is to partner with my patients and provide a personalized service that gives them access to world-class care at their convenience.\"",
+            "Industries & Segments": null
+        }
+    ],
+    "gwu": [
+        {
+            "About": "GW provides an education in the heart of Washington, D.C., offering unparalleled access to leading international institutions, multinational corporations, global media outlets, and the governments of 177 countries via their resident embassies. The university offers comprehensive learning experiences through internships and hands-on opportunities.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": [
+                "the White House",
+                "Bloomingdale's",
+                "Discovery Communications",
+                "PwC",
+                "National Institutes of Health",
+                "World Bank"
+            ],
+            "Testimonials": [
+                {
+                    "name": "Linda Ryan",
+                    "role": "Major: Dance",
+                    "testimonial": "GW seems like a relatively small community, but the great thing about being in D.C. is that there's a little bit of everything."
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "pumpkin": [
+        {
+            "About": "Pumpkin Insurance Services Inc. is a pet health company and insurance agency that helps families give their dogs and cats the best veterinary care possible through best-in-class pet insurance and preventive care.",
+            "Mission": "We wanted to help more pet parents afford the care their pets needed, so we set out on a mission to increase the number of insured pets in the U.S.",
+            "Products": [
+                "Pet Insurance",
+                "Preventive Essentials"
+            ],
+            "Pricing": [
+                "Annual limit options of $10k, $20k, or unlimited for dogs",
+                "$7k, $15k, or unlimited for cats",
+                "10% Fur Family Discount"
+            ],
+            "Customers": "Pumpkin's best-in-class insurance plans and preventive care wellness product make it easier for pet parents to provide the routine care their pets need to stay healthy, and to afford the crucial accident & illness care pets may need if they become hurt or sick.",
+            "Testimonials": [
+                {
+                    "testimonial": "Pumpkin has been so helpful and responsive any time I have questions about claims. They put your pet first and customer service is consistently outstanding.",
+                    "name": "Renee M",
+                    "role": "Max's mom"
+                },
+                {
+                    "testimonial": "After immense research, I signed up with Pumpkin when I first got my puppy almost 2 years ago. Great website, online chat, customer service. Filing claims could not be easier. Very happy customer here. Get this for your pup and your peace of mind!",
+                    "name": "Terry C",
+                    "role": "Maisie and Yoyo's mom"
+                },
+                {
+                    "testimonial": "Pumpkin insurance is a lifesaver!! My dog needed emergency surgery, of course it happens to be during Christmas time! I paid, filed my claim and got reimbursed within a week! Customer service was sweet and caring, I highly recommend!"
+                }
+            ],
+            "Industries & Segments": "Pet insurance and wellness"
+        }
+    ],
+    "mcgriff": [
+        {
+            "About": "McGriff provides insurance and risk management solutions focused on clients' priorities and what they value most.",
+            "Mission": "McGriff solves for protecting valuable assets and identifying risks to find creative insurance solutions.",
+            "Products": [
+                "McGriff Prescription Discount Card",
+                "Personal Insurance",
+                "Business Insurance",
+                "Auto & Transportation Insurance",
+                "Commercial Property Insurance",
+                "Executive Risk Insurance",
+                "CarePlus Mobile Health"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "name": "Rachel Baldwin",
+                    "role": "teammate",
+                    "testimonial": "When an EF-2 tornado touched down in Greensboro, McGriff quickly responded to provide relief for our community. We also made care packages and walked door to door in the hardest hit areas to deliver food and a smiling face to folks who needed it most."
+                },
+                {
+                    "name": "Fran Harris",
+                    "role": "teammate",
+                    "testimonial": "Military Missions in Action is an organization focused on providing all types of housing items to previously homeless Veterans. Serving with this group as a volunteer allowed me show appreciation and respect for those that have sacrificed for our country. It was a rewarding experience and I look forward to future opportunities to volunteer with this organization."
+                },
+                {
+                    "name": "Dorie Liucci",
+                    "role": "teammate",
+                    "testimonial": "In 2020, we focused on remote, socially distanced activities due to COVID-19. For example, we packed over 750 lunch kits for Kids' Meals, which delivers lunches to children under age 6 in the Houston area. When we delivered the lunch kits, they expressed how grateful they were for our contribution, since the number of children in their program has nearly doubled during the pandemic. Even when we're physically distanced, we can still work together to make a difference in our community."
+                }
+            ],
+            "Industries & Segments": [
+                "Transportation",
+                "Commercial Property",
+                "Executive, Professional, Cyber, and Transactional Risk"
+            ]
+        }
+    ],
+    "fluor": [
+        {
+            "About": "At Fluor, we design and build the world's toughest projects. We provide professional and technical solutions to deliver safe, well-executed, capital-efficient engineering, procurement and construction (EPC) projects to clients globally.",
+            "Mission": "We support our clients in solving critical challenges. We operate throughout the project lifecycle, from conceptual design, engineering, procurement and construction to the operations and maintenance of facilities.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "cloudticity": [
+        {
+            "About": "Cloudticity focuses exclusively on helping healthcare organizations be successful on the public cloud. They are a digital enablement partner for healthcare organizations generating measurable business and clinical outcomes by unlocking the cloud's full potential.",
+            "Mission": "To change the way people engage with healthcare and to help clients revolutionize healthcare through cloud technology by creating modern data interoperability infrastructure and scalable healthcare solutions.",
+            "Products": [
+                "Cloudticity Healthcare DataHub",
+                "Cloudticity Oxygen",
+                "Epic on AWS",
+                "Epic on Azure",
+                "Epic Cloud Migration"
+            ],
+            "Pricing": [
+                "Scaled pricing that offers significant discounts as the customer cloud environment grows.",
+                "HITRUST certification costs estimated from $6K to $120K depending on the level.",
+                "HITRUST assessor costs at $30K.",
+                "Indirect costs for HITRUST certification estimated between $30,000 to $75,000 based on required work hours."
+            ],
+            "Customers": [
+                {
+                    "name": "Caredove",
+                    "industry": "Healthcare",
+                    "testimonial": "Tim Berezny",
+                    "role": "Chief Technology Officer"
+                },
+                {
+                    "name": "Kumanu",
+                    "industry": "Healthcare",
+                    "testimonial": "Lisa Schutte",
+                    "role": "Chief Technology Officer"
+                },
+                {
+                    "name": "Michigan Health Information Network",
+                    "industry": "Healthcare",
+                    "testimonial": "Tim Pletcher",
+                    "role": "Executive Director"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Tim Berezny",
+                    "role": "Chief Technology Officer, Caredove",
+                    "testimonial": "Cloudticity is a fundamental part of our operations and processes."
+                },
+                {
+                    "name": "Lisa Schutte",
+                    "role": "Chief Technology Officer, Kumanu",
+                    "testimonial": "My team is moving fast. We're not afraid to push the envelope with our technology, but we need to balance being nimble with being security-conscious and Oxygen allows us to do this."
+                },
+                {
+                    "name": "Tim Pletcher",
+                    "role": "Executive Director, Michigan Health Information Network",
+                    "testimonial": "Cloudticity again and again understands what we're trying to achieve from the perspective of the healthcare lens."
+                }
+            ],
+            "Industries & Segments": [
+                "Healthcare"
+            ]
+        }
+    ],
+    "dreampak": [
+        {
+            "About": "Founded in 2000 by Dr. Aly Gamay, DreamPak provides the marketplace with convenient, delicious, and sustainable solutions for the center-of-the-store, leading customers from concept development to distribution as a technology-driven manufacturer.",
+            "Mission": null,
+            "Products": [
+                "Liquid Water Enhancers",
+                "Non-Dairy Liquid Creamers",
+                "Mashed Potatoes Instant Cups",
+                "Mac & Cheese Instant Cups",
+                "Shells & Cheese Boxes"
+            ],
+            "Pricing": null,
+            "Customers": "Employees, the Waukesha County Business Alliance, and both state and local elected representatives.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Drink Mixes",
+                "Liquid Creamers",
+                "Shelf-Stable Meals",
+                "Dietary Supplements"
+            ]
+        }
+    ],
+    "si": [
+        {
+            "About": null,
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "glueiq": [
+        {
+            "About": "GlueIQ delivers insightful ideas and programs that inspire people to not just buy, but also buy in. They develop standout content and powerful campaigns, design and optimize digital experiences, partner with leadership for strategic growth, provide media capability, and harness technologies to enhance customer experiences.",
+            "Mission": "GlueIQ exists for the thrill of making a difference, solving for both the wisdom and the work, and creating independent changemakers that prioritize impact. They embrace growth challenges by holding relevance across product-market fit, strategic positioning, and modern brand strategy.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Clients include Atlantis Paradise Island Bahamas, Evermore Resort, Palmas and RioMar resorts, Oceans Casino Resort, RBC Capital Markets, Sidecar Health, City National Bank, Neiman Marcus, Mattel, Walt Grace, Dodge, Brightline, Reyes Beverage Group, and Miami Cocktail.",
+            "Testimonials": "Jonathan Mildenhall, CEO of TwentyFirstCenturyBrand, described Gaston Legorburu as a visionary and advocate of storytelling systems. Omar Epps, Actor/Producer, recognized Daz McColl for changing the perception of consumer engagement with brands.",
+            "Industries & Segments": "Travel & Hospitality, Financial Services, Retail & eCommerce, Automotive & Transportation, Food & Beverage."
+        }
+    ],
+    "caliberstrong": [
+        {
+            "About": "Caliber is an online personal training company with a primary focus on strength training.",
+            "Mission": "Caliber helps you build muscle and lose weight through a unique combination of data-driven strength, cardio & nutrition programming, one-on-one video coaching, and lifestyle optimizations tailored to you.",
+            "Products": [
+                "Caliber program",
+                "Caliber app",
+                "Caliber Lessons",
+                "Caliber Method",
+                "Caliber mobile training app"
+            ],
+            "Pricing": [
+                "Billing is month-to-month",
+                "30-day money-back guarantee"
+            ],
+            "Customers": "Caliber programming and nutrition advice has helped thousands of clients across the world.",
+            "Testimonials": [
+                {
+                    "name": "Steven",
+                    "testimonial": "I continuously bring up Caliber when people around me ask what the secret was to getting this lean. The accountability, tools, and knowledge you've provided have been life-changing!"
+                },
+                {
+                    "name": "Victoria",
+                    "testimonial": "I feel more toned and happy with what I've been seeing in the mirror. Also the fact that I've almost lost 2 inches around my waist!"
+                },
+                {
+                    "name": "Collin",
+                    "testimonial": "My body has changed REALLY drastically. Abs are starting to show definition all the way down the middle and around the sides, much more definition and vascularity in biceps and triceps, and my back looks noticeably more muscular."
+                },
+                {
+                    "name": "Iris",
+                    "testimonial": "I have lost close to 40 lbs, 10% body fat, and 8 inches off my waist. My level of fitness has increased significantly."
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "ufhealth": [
+        {
+            "About": "UF Health promotes health through high-quality patient care, education in health professions and biomedical sciences, and research across basic, translational, and clinical investigation.",
+            "Mission": "Translate scientific discoveries into patient care advances; improve clinical outcomes; reduce healthcare costs; enhance coordination of care; promote advancement of medicine.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "genbev": [
+        {
+            "About": "General Beverage is one of the largest wholesale distributors of wine, distilled spirits, beer and non-alcoholic beverages in Wisconsin.",
+            "Mission": "Our mission is to be the trusted distributor partner of our suppliers and customers in order to advance our collective beverage business and support the growth of our family of employees.",
+            "Products": [
+                "wine",
+                "distilled spirits",
+                "beer",
+                "non-alcoholic beverages"
+            ],
+            "Pricing": null,
+            "Customers": "Over 12,000 licensed retail business customers throughout Wisconsin.",
+            "Testimonials": null,
+            "Industries & Segments": "Beverage retailers; focuses on the wholesale distribution of wine, distilled spirits, beer, and non-alcoholic beverages."
+        }
+    ],
+    "razorrank": [
+        {
+            "About": "Razor Rank is a premier Digital Marketing agency focused on serving the needs of many different types of companies seeking greater visibility online through a variety of marketing channels. They provide expert solutions and integrated resources for clients seeking superior service and expert advice designed to increase online visibility, traffic, lead generation, and revenue.",
+            "Mission": "Our mission is to exceed your expectations. Whether your business is a complex ecommerce platform or a small-to-medium sized business, our team provides the highest level of communication, and treats your business as it were our own.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Razor Rank serves some of the largest brand names in the country and many medium and smaller-sized companies. Jason Campbell has led optimization for companies such as Toys\"R\"Us, Dick's Sporting Goods, Orbitz, Avon, Belk Department Stores, Neiman Marcus, Fossil, Gap Inc.",
+            "Testimonials": [
+                {
+                    "text": "I can comfortably say that Razor Rank is one of the best partners I've been lucky enough to work with. The engagement met the goals and expectations of the internal team, leading to an ongoing relationship. Razor Rank provides a high level of customer service and support. The team is hard-working, creative, and thorough.",
+                    "name": "Craig Madden",
+                    "role": "SVP eCommerce, Propper International"
+                },
+                {
+                    "text": "Razor Rank truly embodies the meaning of partner in everything they do. After a global website relaunch, SEO did not tumble and organic revenue didn't drop off... it started growing. The team at Razor Rank was very easy to communicate with, share ideas and strategize with.",
+                    "name": "Ryan Jeffrey",
+                    "role": "Digital Marketing Manager, Maui Jim"
+                },
+                {
+                    "text": "They weren't just order-takers, they were partners that could advise of strategy. Over the course of a few months, the team's work catalyzed a 500% increase in qualified leads, a 35% decrease in bounce rate, and a 50% increase in total visitors. Their design capabilities proved to be comparable to major players in the industry.",
+                    "name": "Carl Beauregard",
+                    "role": "SVP Marketing, Coronet"
+                },
+                {
+                    "text": "They've been, without a doubt, the best partner that I've ever come across. The law firm's organic traffic has doubled for personal injury, and we're ranking number one for over 100 targeted keywords. Razor Rank has produced excellent results, they consistently over-deliver and exceed expectations.",
+                    "name": "Dan Brian",
+                    "role": "Director Digital Marketing, Personal Injury Law Firm"
+                },
+                {
+                    "text": "They've taken the time to fully understand our very complicated business model and make accurate recommendations. We has seen improvement in our organic traffic, conversion rate, and SEO rankings. Proactivity in providing recommendations is a hallmark of their work.",
+                    "name": "Christine Craig",
+                    "role": "VP Sales & Marketing, Bramble Berry"
+                },
+                {
+                    "text": "As an interim CMO for Private Equity, I use Razor Rank as my go-to team for organic and paid search. The companies I work with are big brands who expect real results. I can count on Razor Rank to perform at 100% and bring my clients the results they need. I rely on them, and they never let me down.",
+                    "role": null
+                }
+            ],
+            "Industries & Segments": "Razor Rank focuses on e-commerce retailers, law firms, home services companies, HVAC companies, software companies, and other businesses that rely on lead generation."
+        }
+    ],
+    "focusonthefamily": [
+        {
+            "About": "Focus on the Family is a global Christian ministry dedicated to helping families thrive. They provide help and resources for couples to build healthy marriages and for parents to raise their children according to biblical principles.",
+            "Mission": "To cooperate with the Holy Spirit in sharing the Gospel of Jesus Christ by nurturing and defending the God-ordained institution of the family and promoting biblical truths worldwide.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "name": "Anonymous",
+                    "role": "Ohio",
+                    "testimonial": "Throughout my active parenting years I really relied on Focus radio broadcasts for encouragement, guidance, and information."
+                },
+                {
+                    "name": "Joseph",
+                    "role": null,
+                    "testimonial": "Through the years, your ministry helped me grow in Christ and learn how to be a husband and father."
+                },
+                {
+                    "name": "Adam",
+                    "role": null,
+                    "testimonial": "In stressful times the peace and grounding Focus offers gives me courage and hope to do the right thing."
+                },
+                {
+                    "name": "Ramone",
+                    "role": null,
+                    "testimonial": "Focus on the Family has been a blessing to me, been a blessing to my children, been a blessing to my wife, been a blessing to our church members."
+                },
+                {
+                    "name": "Tim",
+                    "role": null,
+                    "testimonial": "I am a better husband, a better father, and a better pastor, because of how God has used and is using the ministry of Focus on the Family to speak into my life."
+                },
+                {
+                    "name": "Steve",
+                    "role": null,
+                    "testimonial": "As a single man, I received encouragement and wise counsel that helped me overcome childhood wounds and gave me more confidence in looking for a godly mate."
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "dailykarma": [
+        {
+            "About": "In 2018, we united to build innovative solutions that help brands leverage consumer power for the greater good, all while helping charities.",
+            "Mission": "To drive tangible impact in the world through technology.",
+            "Products": [
+                "Shop for Good"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "name": "Ivory Ella",
+                    "industry": null
+                },
+                {
+                    "name": "John Masters Organics",
+                    "industry": null
+                },
+                {
+                    "name": "Bubba Rose",
+                    "industry": null
+                },
+                {
+                    "name": "Venus William's company, Eleven",
+                    "industry": null
+                },
+                {
+                    "name": "Biossance",
+                    "industry": null
+                },
+                {
+                    "name": "Rare Beauty",
+                    "industry": null
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Mireille Ryan",
+                    "role": "CEO, Social Media Marketing Institute",
+                    "testimonial": "\"The biggest challenge for brands is to look for new ways to create innovative content that will stand out and stop their followers from scrolling.\""
+                }
+            ],
+            "Industries & Segments": [
+                "e-commerce",
+                "nonprofits",
+                "social media"
+            ]
+        }
+    ],
+    "coxautoinc": [
+        {
+            "About": "Cox Automotive is transforming the way the world buys, sells, owns, and uses vehicles, providing digital marketing, financial, retail, and wholesale solutions for consumers, dealers, manufacturers, and the overall automotive ecosystem worldwide.",
+            "Mission": "Cox Automotive is focused on creating faster vehicle transactions and enabling consumers to have a seamless online-to-offline experience, alongside improving the automotive industry and making positive differences in communities.",
+            "Products": [
+                "Accelerate Digital Retailing",
+                "Cox Automotive Digital Marketing Solutions",
+                "Insights & Research",
+                "Local Market Information",
+                "Service & Support",
+                "National / Regional Advertising",
+                "Vehicle Valuation Products"
+            ],
+            "Pricing": null,
+            "Customers": "The company partners with more than 40,000 auto dealers and most major automobile manufacturers.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Automotive dealers",
+                "Manufacturers",
+                "Overall automotive ecosystem"
+            ]
+        }
+    ],
+    "calexico": [
+        {
+            "About": "Calexico sells tacos and burritos from restaurants.",
+            "Mission": null,
+            "Products": [
+                "tacos",
+                "burritos"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "travelers": [
+        {
+            "About": "Travelers is an insurance company that offers personal, business, and specialty insurance solutions.",
+            "Mission": "Providing worry-free coverage to protect homes, cars, businesses, and the important things in life, helping clients prepare for risk and recover faster after unexpected events.",
+            "Products": [
+                "Personal insurance products",
+                "Business insurance options",
+                "Boat and yacht insurance",
+                "Homeowners insurance",
+                "Flood insurance through Neptune Flood",
+                "Pet, Motorcycle, Travel insurance through InsuraMatch"
+            ],
+            "Pricing": [
+                "Competitive rates on personal insurance products",
+                "Member and employee discounts for participating groups",
+                "Multi-policy discounts",
+                "Boat education discounts",
+                "Early quote discount"
+            ],
+            "Customers": "Travelers serves individuals, small businesses, and various customer segments through 30,000 employees and 15,000 independent agents in the United States, Canada, the United Kingdom, and Ireland.",
+            "Testimonials": [
+                {
+                    "text": "I was devastated by the loss of family items, precious childhood videos, photos, papers, artwork and too many things to mention. As I toured the basement wreckage, on the Travelers smartphone app, I was cared for and treated with compassion and understanding.",
+                    "role": "Personal Insurance customer"
+                }
+            ],
+            "Industries & Segments": [
+                "Personal insurance",
+                "Business insurance",
+                "Specialty insurance",
+                "Small business"
+            ]
+        }
+    ],
+    "lifescan": [
+        {
+            "About": "LifeScan is a global leader in glucose monitoring and diabetes management, offering a comprehensive portfolio of diabetes related products and services under the OneTouch brand.",
+            "Mission": "We help people take action to support a life of wellness through innovative solutions, striving to improve the quality of life for people living with diabetes.",
+            "Products": [
+                "OneTouch brand products",
+                "Smart Blood Glucose Meter",
+                "Mobile App"
+            ],
+            "Pricing": null,
+            "Customers": "Our OneTouch brand is used by millions of consumers every day across the globe.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Healthcare",
+                "Diabetes management",
+                "Wellness",
+                "Fitness",
+                "Meal planning",
+                "Nutrition",
+                "Personal health",
+                "Weight management"
+            ]
+        }
+    ],
+    "creospan": [
+        {
+            "About": "Creospan helps companies formulate and implement their digital transformation strategy, and looks for opportunities and pursues innovation initiatives.",
+            "Mission": "They solve problems of integrating disparate data and applications, reducing infrastructure costs, improving customer experience, rapid innovation, and future-proofing solutions tailored to business objectives.",
+            "Products": [
+                "Cloud-based solutions",
+                "Digital strategy",
+                "Digital containment",
+                "Customer analytics",
+                "Marketing analytics",
+                "Omni-channel strategy",
+                "Technology enablement",
+                "Generative AI (Private LLMs)",
+                "Cloud-native development",
+                "UI/UX design and development",
+                "Enterprise architecture, design, and development",
+                "Web and mobile development"
+            ],
+            "Pricing": null,
+            "Customers": "Leading hospital system in healthcare, Fortune 50 telecom firm, a national car insurance provider, 130-year-old financial institution.",
+            "Testimonials": [
+                {
+                    "name": "BRAD VOLLMERT",
+                    "role": "VP, TALENT ACQUISITION",
+                    "testimonial": "Who wouldn't want to be a part of, or utilize, a team of excellent human beings and technical experts driven by curiosity?"
+                },
+                {
+                    "name": "DHAVAL JOSHI",
+                    "role": "Co-COO",
+                    "testimonial": "Our customers have a myriad of choices in the market. They rely on Creospan because we bring smaller, more nimble teams to solve big challenges versus the other way around."
+                },
+                {
+                    "name": "PITZ SAMAYAVONG",
+                    "role": "CLIENT MANAGER",
+                    "testimonial": "Business is all about the people, and Creospan's people are truly what makes our company stand out. When you work with Creospan, I can assure you that we will provide a level of care you will not get elsewhere."
+                },
+                {
+                    "name": "PRATHAMESH KHEDEKAR",
+                    "role": "TECH PRODUCT MANAGER",
+                    "testimonial": "We keep a sharp focus on innovation, service delivery, mentorship, and training so we can deliver solutions that create long-term value for our clients and make a strong impact in communities."
+                },
+                {
+                    "name": "KENNETH LIU",
+                    "role": "SR. SOFTWARE ENGINEER",
+                    "testimonial": "When it comes down to it, it's not about software--it's about the people. Good code will solve a problem, but Creospan's people possess integrity and deliver personalized service."
+                }
+            ],
+            "Industries & Segments": [
+                "Telecom",
+                "Technology",
+                "Manufacturing",
+                "Ecommerce",
+                "Insurance",
+                "Banking",
+                "Transportation",
+                "Healthcare"
+            ]
+        }
+    ],
+    "mgcomputer": [
+        {
+            "About": "Started in 2000, MG|Computer is a complete technology solution provider. We specialize in delivering proactive IT support and services to businesses like yours with friendly, knowledgeable techs who will put you at ease and resolve your IT problems quickly and efficiently.",
+            "Mission": "To provide reliable, professional IT services and solve IT nightmares for Chicago Area businesses.",
+            "Products": [
+                "IT support and services",
+                "Cloud services",
+                "Data backup",
+                "Hardware as a service (HaaS)"
+            ],
+            "Pricing": [
+                "Pay-as-you-go service",
+                "Full service IT function for a monthly fee"
+            ],
+            "Customers": [
+                {
+                    "name": "Scott E. Fromm",
+                    "role": "Vice - President",
+                    "company": "F&S Engraving Inc.",
+                    "industry": "Manufacturing"
+                },
+                {
+                    "name": "Teresa Beach-Shelow",
+                    "role": "President",
+                    "company": "Superior Joining Technologies, Inc.",
+                    "industry": "Manufacturing"
+                },
+                {
+                    "name": "Linda Hou",
+                    "role": "President",
+                    "company": "American Chrome"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Scott E. Fromm",
+                    "role": "Vice - President",
+                    "company": "F&S Engraving Inc.",
+                    "testimonial": "You are fast to respond back to us when I place a HELP Ticket. Your team's in-depth knowledge of manufacturing has helped us keep our production rolling!"
+                },
+                {
+                    "name": "Teresa Beach-Shelow",
+                    "role": "President",
+                    "company": "Superior Joining Technologies, Inc.",
+                    "testimonial": "I rest easy knowing if there is a glitch MG Computer is diligent in finding a solution. They are a team player we can count on!"
+                },
+                {
+                    "name": "Linda Hou",
+                    "role": "President",
+                    "company": "American Chrome",
+                    "testimonial": "Our experience with MG Computer has been GREAT. They provide excellent service at a competitive price!"
+                }
+            ],
+            "Industries & Segments": [
+                "Small and medium businesses",
+                "Manufacturing"
+            ]
+        }
+    ],
+    "forsythbuilding": [
+        {
+            "About": "Forsyth Building Company Inc. takes great pride in exceeding our client's expectations no matter how large or small the project. Forsyth Building Company was awarded numerous projects including churches, banks, office buildings, retirement complexes, and civil infrastructure. Forsyth Building Company entered the design-build market in 2000 and has completed several million dollars in design-build contracts. We also have worked as the Construction Manager with several other General Contractors within the state of Alabama.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Farmers and Merchants Bank, Southwire",
+            "Testimonials": [
+                {
+                    "name": "Kenneth L. Joiner",
+                    "role": "County Administrator, Calhoun County",
+                    "testimonial": "Forsyth Building Company Inc. was the general contractor on the referenced project listed above. They were responsible for the entire project build which included the following; clearing & grubbing, grading, sidewalks, asphalt paving, concrete paving, storm drainage, sewer & water. I am the representative for the Owner of the project and all work was performed to construction standards."
+                },
+                {
+                    "name": "Timothy M. Lucy",
+                    "role": "Owner, Lucy Design Associates",
+                    "testimonial": "Our company was the architect on the New Flyer Vehicle Innovation Center project in Anniston, Alabama which was just recently completed by Forsyth. This project was a total makeover on an existing building and had a very demanding schedule. The construction entailed grading, sewer lines, water lines, drainage, culverts, paving and concrete work. Forsyth was very organized and professional in their approach to the project, and worked with our team seamlessly to deliver the project on time and with a high level of quality."
+                },
+                {
+                    "name": null,
+                    "role": null,
+                    "testimonial": "When we built our Oxford office in 2006, the bids were by invitation only; Forsyth Building Co., Inc. was awarded the job. We could not have been more pleased with the selection. The entire construction process went very smooth as the building was completed on time and on budget. Mr. Harold Forsyth is an extremely professional, ethical and knowledgeable contractor and individual. NobleBank and Trust would certainly use his fine company again."
+                }
+            ],
+            "Industries & Segments": "Construction, Civil Infrastructure, Commercial, Banks, Churches, Office Buildings, Retirement Complexes"
+        }
+    ],
+    "hiebing": [
+        {
+            "About": "Hiebing is a creative collaborative that uses science-based marketing to drive momentum for brands.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Blain's Farm and Fleet, a family-owned specialty retailer, has named Hiebing as their new strategic creative agency partner.",
+            "Testimonials": [
+                {
+                    "testimonial": "\"When people ask why I've stayed at Hiebing for so long, the answer is simple: the people.\"",
+                    "name_role": null
+                },
+                {
+                    "testimonial": "\"Hiebing is the first place I've worked - including a string of other agencies - where I truly feel cared for.\"",
+                    "name_role": null
+                }
+            ],
+            "Industries & Segments": [
+                "tourism",
+                "hospitality",
+                "health care",
+                "pharmaceuticals",
+                "toys",
+                "CPG",
+                "QSR"
+            ]
+        }
+    ],
+    "craftventures": [
+        {
+            "About": "Craft Ventures is a venture firm that focuses on building and scaling SaaS businesses by helping founders with expertise from former founders and operators.",
+            "Mission": "Craft Ventures aims to help founders build great companies by providing access to senior talent and strategic resources.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": {
+                "Vanta": "Enterprise",
+                "Sourcegraph": "Bottom Up SaaS"
+            },
+            "Testimonials": [
+                {
+                    "name": "Vanta",
+                    "role": null,
+                    "testimonial": "Many VC firms produce their own findings on a company or space, but Craft's research was deeper, more nuanced and, ultimately, more helpful than anything else I encountered. It not only speaks to their depth of knowledge, but also how they operate as a leading firm."
+                },
+                {
+                    "name": "Sourcegraph",
+                    "role": null,
+                    "testimonial": "Especially if you're Bottom Up SaaS, Craft is SUPER helpful and will work very hard on your behalf. They've helped us on everything from sales, marketing and hiring, to planning, forecasting, and messaging."
+                }
+            ],
+            "Industries & Segments": [
+                "SaaS",
+                "Marketplaces",
+                "Regulated industries",
+                "Government market segments"
+            ]
+        }
+    ],
+    "silverlake": [
+        {
+            "About": "A Place for Mom is North America's largest network connecting families to senior living service providers.",
+            "Mission": "Addressing the unique needs of each family it serves, the company generates in-depth and detailed informational guidance that can dramatically simplify an often challenging and opaque search process.",
+            "Products": [
+                "Senior Living Finder mobile app",
+                "Senior Living Cost Index"
+            ],
+            "Pricing": "The service is offered at no charge to families as providers pay a fee to A Place for Mom.",
+            "Customers": "More than 80% of the Fortune 100 rely on Airtable. Customers include Amazon, Baker Hughes, IBM, LVMH, Netflix, Nike, Red Bull, Restoration Hardware, and Under Armour.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Senior living and care industry",
+                "Enterprise businesses across multiple industries"
+            ]
+        }
+    ],
+    "larimer": [
+        {
+            "About": null,
+            "Mission": "The District Attorney's office serves to seek justice and ensure the safety of our community in an equitable manner.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "crossscreen": [
+        {
+            "About": "Cross Screen Media is a leading CTV activation managed service for marketers and agencies, built on a proprietary technology platform that enables advertisers to plan and measure advertising across Connected TV and audience-driven Linear TV at the local level.",
+            "Mission": "Build solutions to solve the most critical problems in advertising by challenging assumptions and continuously seeking ways to improve.",
+            "Products": [
+                "Audience Builder",
+                "Cross-Screen Planning",
+                "Scalable CTV Activation",
+                "Measurement & Analytics",
+                "QuickStart Campaign"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "name": null,
+                    "industry": "Healthcare Ad Agency"
+                },
+                {
+                    "name": null,
+                    "industry": "Higher Education Ad Agency"
+                },
+                {
+                    "name": null,
+                    "industry": "Public Affairs Ad Agency"
+                },
+                {
+                    "name": null,
+                    "industry": "DC Political Agency"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "\"CSM is an invaluable part of our CTV strategy. They help us scale our activation capabilities and prescriptively optimize our budget across our marketing programs.\"",
+                    "name": "Programmatic Account Director",
+                    "role": "Healthcare Ad Agency"
+                },
+                {
+                    "testimonial": "\"Cross Screen's approach to audience targeting gives us everything we need to reach our niche audience and make sure we're making the most out of every campaign.\"",
+                    "name": "Co-Founder & CEO",
+                    "role": "Higher Education Ad Agency"
+                },
+                {
+                    "testimonial": "\"CSM is the unquestioned leader of targeting at the hyper-local level. They've been in political for over a decade and their managed service reflects a deep understanding of our agency's goals.\"",
+                    "name": "Principal",
+                    "role": "DC Political Agency"
+                },
+                {
+                    "testimonial": "\"The Cross Screen Media team helps us reach decision makers more efficiently. They help us consistently deliver cross-channel results for our clients and maximize reach and impact on digital/CTV channels.\"",
+                    "name": "Principal",
+                    "role": "Public Affairs Ad Agency"
+                }
+            ],
+            "Industries & Segments": [
+                "Healthcare",
+                "Higher Education",
+                "Politics",
+                "Advocacy and Public Affairs"
+            ]
+        }
+    ],
+    "luminositycapital": [
+        {
+            "About": "Luminosity Capital LLC is a sponsor of private equity funds that invests in people, technology and Florida real estate for deeply rooted growth.",
+            "Mission": "Unlock asset value to achieve targeted results on behalf of investors in the Florida real estate market.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "name": null,
+                    "role": "Seller and Lender",
+                    "testimonial": "Our experience with the BBE Group was outstanding and we have reviewed a couple of investment opportunities with them."
+                },
+                {
+                    "name": null,
+                    "role": "Lender",
+                    "testimonial": "They closed on the property on time and made the interest payments on time and we were pleasantly surprised they retired the note early."
+                }
+            ],
+            "Industries & Segments": "Commercial real estate, Florida real estate, private equity funds"
+        }
+    ],
+    "tanookilabs": [
+        {
+            "About": "Tanooki Labs is dedicated to enabling entrepreneurs to build their dreams by providing technical assistance, acting as technical co-founders for hire.",
+            "Mission": "Enabling entrepreneurs to build their dreams and helping them overcome obstacles related to product development.",
+            "Products": [
+                "Binx",
+                "Virtual Stylist",
+                "Tanooki Co-Pilot",
+                "Kitty Items NFT marketplace",
+                "Dev Wallet",
+                "TestNet Faucet"
+            ],
+            "Pricing": [
+                "$175.00 HOURLY",
+                "$300.00 HOURLY"
+            ],
+            "Customers": [
+                {
+                    "name": "Zady",
+                    "industry": "E-commerce"
+                },
+                {
+                    "name": "Game Prophet",
+                    "industry": "Gaming"
+                },
+                {
+                    "name": "Dapper Labs",
+                    "industry": "Technology"
+                },
+                {
+                    "name": "SkillSchool",
+                    "industry": "Education"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "When we first started building Zady, Tanooki Labs was able to provide clear technical direction to get the site up and running in a short timeframe. Since then, the team at Tanooki has been instrumental in the overall product strategy.",
+                    "name": "Soraya Darabi",
+                    "role": "Zady"
+                },
+                {
+                    "testimonial": "Tanooki was flexible and able to handle changing scope in order to help deliver an optimal experience of our first product on-time and within budget.",
+                    "name": "Jake Perlman-Garr",
+                    "role": "Game Prophet"
+                },
+                {
+                    "testimonial": "Tanooki Labs brought their passion and commitment to the process of building SkillSchool.",
+                    "name": "Brooklyn Bridge Ventures",
+                    "role": null
+                }
+            ],
+            "Industries & Segments": [
+                "Venture Capital",
+                "Private Equity",
+                "Artificial Intelligence",
+                "Real Estate"
+            ]
+        }
+    ],
+    "block": [
+        {
+            "About": "Across each of our building blocks, we're creating better tools to help everyone access the economy.",
+            "Mission": "Every challenge creates possibilities, and we need different perspectives to see them all.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "metronome": [
+        {
+            "About": "Metronome helps companies streamline billing operations, take new pricing and products to market, and enhance customer billing experiences.",
+            "Mission": "Simplify billing operations, streamline accounting and finance operations with built-in analytics, reporting, and integrations.",
+            "Products": [
+                "Native API support for customer provisioning",
+                "Billing portals",
+                "Revenue integrations"
+            ],
+            "Pricing": null,
+            "Customers": [
+                "Cockroach Labs",
+                "Starburst Galaxy"
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "Metronome enabled us to deliver billing at scale, serverless, on an aggressive timeframe. Their responsiveness, attention to detail, and knowledge on all things billing built trust quickly with our Engineering, Product, and Finance teams and have saved us many years of work.",
+                    "name": "Peter Mattis",
+                    "role": "Co-Founder & CTO, Cockroach Labs"
+                },
+                {
+                    "testimonial": "Metronome's out-of-the-box integrations let us meet Starburst Galaxy customers where they are. Even during cloud service provider outages, Metronome has been reliable and resilient. Our product teams can focus on shipping features instead of worrying about billing minutiae."
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "avidinc": [
+        {
+            "About": null,
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "abbvie": [
+        {
+            "About": "AbbVie is a global company that focuses on research and development to address patients' most challenging health issues. They deliver innovative medicines and products that solve serious health issues, enhance people's lives today, and tackle tomorrow's medical challenges.",
+            "Mission": "AbbVie aims to advance health equity, remove systemic barriers, increase access to care, invest in innovative solutions, and solve unmet medical needs, with a focus on oncology, immunology, neuroscience, eye care, medical aesthetics, and other specialty areas.",
+            "Products": [
+                "ALLODERM RTU",
+                "COOLSCULPTING",
+                "FOURTE Expander Fill System",
+                "JUVEDERM XC",
+                "JUVEDERM Ultra Plus XC",
+                "JUVEDERM Ultra XC",
+                "JUVEDERM VOLBELLA XC",
+                "JUVEDERM VOLUMA",
+                "KELLER FUNNEL (Silicone Breast Implant Sleeve)",
+                "KYBELLA (deoxycholic acid) injection",
+                "LYTERA Skin Brightening Complex",
+                "OCUMEND",
+                "OPTIVE Advanced",
+                "OPTIVE Fusion UD",
+                "REDNESS RELIEF CALMPLEX",
+                "REFRESH OPTIVE 0.5% & 0.9% (Lubricant eye drops)",
+                "REFRESH OPTIVE MEGA-3",
+                "REFRESH RELIEVA",
+                "REFRESH RELIEVA PF",
+                "REFRESH DIGITAL"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Oncology",
+                "Immunology",
+                "Neuroscience",
+                "Eye care",
+                "Medical aesthetics",
+                "Other specialty areas"
+            ]
+        }
+    ],
+    "abbott": [
+        {
+            "About": "We've designed next-gen diagnostic tests, biowearables and connected devices for the most important job of all -- helping you live on your terms.",
+            "Mission": "We're talking about tech that gives you a deeper understanding of your health, more control over it and a faster connection to support when you need it.",
+            "Products": [
+                "Next-gen diagnostic tests",
+                "Biowearables for diabetes care and metabolic health",
+                "Connected health tech",
+                "FreeStyle Libre systems",
+                "Lingo system",
+                "i-STAT TBI Plasma",
+                "Alinity i TBI tests"
+            ],
+            "Pricing": null,
+            "Customers": "Vyshnnavi, Systems Engineer; Vyshnnavi's friend uses FreeStyle Libre.",
+            "Testimonials": "Vyshnnavi, Systems Engineer: 'every time a friend lets me know how helpful our products have been in their journey with diabetes.'",
+            "Industries & Segments": "Health tech, Metabolic health, Diabetes care, Diagnostic testing"
+        }
+    ],
+    "guidehouse": [
+        {
+            "About": "Guidehouse helps clients in both commercial and public sectors anticipate and answer the latest market and regulatory challenges with a range of capabilities in data, analytics, and intelligence, digital and technological capabilities, financial condition adaptation, compliance, and mission operations optimization.",
+            "Mission": "Guidehouse solves problems related to market and regulatory challenges, data ecosystem complexities, financial condition adaptation, compliance, grants management, mission operations optimization, and risk and regulations navigation.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Guidehouse works with organizations including all six branches of the U.S. military, eight of the ten largest U.S. banks, seven of the nation's top ten hospital systems, and government leaders across 50 states.",
+            "Testimonials": null,
+            "Industries & Segments": "Guidehouse focuses on industries including military, banking, healthcare, government, and public sector organizations across regulated sectors."
+        }
+    ],
+    "collab": [
+        {
+            "About": "Collab is a creator tech company building AI software and personalized solutions to help creators grow their audience and earnings.",
+            "Mission": "They solve for the creator's struggle to make a full-time income, aspiring to be the most valuable partner to the creators and brands driving culture.",
+            "Products": [
+                "AI software",
+                "personalized solutions",
+                "Collab Clips",
+                "CollabDRM"
+            ],
+            "Pricing": null,
+            "Customers": "Customers are independent creators, brands like Nike, Urban Decay, EOS, Starbucks, HBO, Pepsico, and Doritos.",
+            "Testimonials": null,
+            "Industries & Segments": "Focuses on the creator economy, entertainment, beauty, consumer goods, and online video content."
+        },
+        {
+            "About": "Collab is a creator tech company building AI software and personalized solutions to help creators grow their audience and earnings.",
+            "Mission": "We aspire to be the most valuable partner to the creators and brands driving culture. We are building technology to power the creator economy, so that a creative career is as attainable and lucrative as a corporate career but way more fun and fulfilling.",
+            "Products": [
+                "Collab Clips",
+                "CollabDRM"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "name": "Urban Decay",
+                    "industry": "Beauty"
+                },
+                {
+                    "name": "Nike",
+                    "industry": "Sports Apparel"
+                },
+                {
+                    "name": "EOS",
+                    "industry": "Personal Care"
+                },
+                {
+                    "name": "Starbucks",
+                    "industry": "Coffee"
+                },
+                {
+                    "name": "HBO",
+                    "industry": "Entertainment"
+                },
+                {
+                    "name": "Doritos",
+                    "industry": "Snacks"
+                }
+            ],
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Creator economy",
+                "Entertainment",
+                "Digital Rights Management"
+            ]
+        }
+    ],
+    "nbcuniversal": [
+        {
+            "About": "NBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, distribute it across our portfolio of film, television, and streaming, and bring it to life through theme parks and consumer experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, MSNBC, CNBC, NBC Sports, Telemundo, NBC Local Stations, Bravo, USA Network, and Peacock.",
+            "Mission": "NBCUniversal solves problems by creating world-class content and using its platforms to create positive change in communities, promoting diversity, inclusion, and advancing equity and opportunity.",
+            "Products": [
+                "NBC",
+                "NBC News",
+                "MSNBC",
+                "CNBC",
+                "NBC Sports",
+                "Telemundo",
+                "NBC Local Stations",
+                "Bravo",
+                "USA Network",
+                "Peacock"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Media",
+                "Entertainment",
+                "Film",
+                "Television",
+                "Streaming",
+                "Theme Parks",
+                "Consumer Experiences"
+            ]
+        }
+    ],
+    "icapital": [
+        {
+            "About": null,
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "foodwiththoughtnutrition": [
+        {
+            "About": "We are a full-service functional holistic practice, supporting clients both in-person in the Dallas-Fort Worth area, and online throughout the globe. We believe that people can bring their bodies back into balance to reduce bothersome symptoms by changing what they eat and how they live life.",
+            "Mission": "I help moms suffering from years of gut issues, stress, and feeling tired to finally understand their symptoms, eat the foods they haven't been able to eat in years, and feel as energetic as they did before having kids and busy careers.",
+            "Products": [
+                "KBMO food sensitivity test",
+                "Fearless Fermentation Workshop",
+                "Herbal Remedies Workshop",
+                "Soulful Soups",
+                "Gluten Free Baking I",
+                "Gluten Free Baking II",
+                "Gut Health Kickoff",
+                "The Gut Fix Formula Course"
+            ],
+            "Pricing": [
+                "Fearless Fermentation Workshop 2.5 hrs, $55",
+                "Herbal Remedies Workshop 3 hrs, $70",
+                "Soulful Soups 2.5 hrs, $50",
+                "Gluten Free Baking I 2.5 hrs, $50",
+                "Gluten Free Baking II 2.5 hrs, $50",
+                "Gluten Free Baking I & II Series 2, 2.5 hr sessions, $90",
+                "Limited time discounted pricing for Gut Fix Formula Course (payment plan and several payment options available)"
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "Serving clients of all ages with complicated health issues virtually across the U.S."
+        }
+    ],
+    "truist": [
+        {
+            "About": "Truist Bank provides financial services including checking accounts, mortgage products, and securities through Truist Financial Corporation and its subsidiaries.",
+            "Mission": "To inspire and build better lives and communities while advancing equity and economic empowerment.",
+            "Products": [
+                "Truist One Checking",
+                "Truist Confidence Account",
+                "Delta SkyMiles Debit card",
+                "Truist Enjoy Cash",
+                "Truist Enjoy Travel",
+                "Truist Enjoy Beyond",
+                "Truist Cash Rewards",
+                "Truist Prime Rewards",
+                "Truist Travel Rewards",
+                "Truist Platinum Elite Rewards",
+                "Truist Legacy Cash Rewards"
+            ],
+            "Pricing": [
+                "Five levels with automatic upgrades based on combined monthly average balance",
+                "$100 Negative Balance Buffer for eligible clients",
+                "$95 annual fee for Delta SkyMiles Debit card"
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Multicultural Banking",
+                "Community Development",
+                "Affordable Housing",
+                "Small Business"
+            ]
+        }
+    ],
+    "uchicagomedicine": [
+        {
+            "About": "The University of Chicago Medicine is a not-for-profit academic medical health system based on the campus of the University of Chicago in Hyde Park, providing hospitals, outpatient clinics, and physician practices throughout Chicago and its suburbs.",
+            "Mission": "UChicago Medicine fulfills its mission of medical education, research, and patient care.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Patients from all over the world come to UChicago Medicine for world-class care.",
+            "Testimonials": null,
+            "Industries & Segments": "Healthcare, Pediatric care, Cancer treatment, International healthcare"
+        }
+    ],
+    "employeecycle": [
+        {
+            "About": "Employee Cycle is a people dashboard company that automates HR reporting and analytics.",
+            "Mission": "They solve for improved workforce management, equitable employee compensation, enhanced retention, and the creation of a more inclusive workplace culture.",
+            "Products": [
+                "HR Analytics Dashboard"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "Name": "Beeline",
+                    "Industry": "Unknown"
+                },
+                {
+                    "Name": "Fivos Health",
+                    "Industry": "Healthcare"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "Name": "Amanda M.",
+                    "Role": "HR Professional",
+                    "Testimonial": "Employee Cycle gave us tools at our fingertips to justify what we know in our gut is the right thing to do."
+                },
+                {
+                    "Name": "Sean Kingston",
+                    "Role": "VP of HR, Beeline",
+                    "Testimonial": "With Employee Cycle, we now do."
+                },
+                {
+                    "Name": "Jason O.",
+                    "Role": "VP of Human Resources, Fivos Health",
+                    "Testimonial": "[Employee Cycle] helps us take limited resources and apply in the most effective areas to get the best ROI."
+                }
+            ],
+            "Industries & Segments": null
+        }
+    ],
+    "steenbocksonorchard": [
+        {
+            "About": "Steenbock's on Orchard is a dining establishment located in The Wisconsin Institute for Discovery, offering a contemporary American menu with local, regional, and seasonal ingredients. It serves lunch, dinner, and offers a bar with a curated selection of wine and beer.",
+            "Mission": null,
+            "Products": [
+                "Cranberry Daiquiri",
+                "House Sangria",
+                "Black Berry Mezcal Margarita",
+                "Earl Grey Elixir",
+                "Paper Plane",
+                "Citrus Sting",
+                "Vanilla gelato",
+                "Chocolate gelato",
+                "Orange chocolate chip",
+                "Union Utopia",
+                "Cappuccino",
+                "Cafe Latte",
+                "Just Coffee(tm) Fair Trade Organic Coffee",
+                "Harney and Sons Tea"
+            ],
+            "Pricing": [
+                "Room Rental Fee: $75",
+                "19% service fee on catered meals",
+                "Cranberry Daiquiri: $6",
+                "House Sangria: $7",
+                "Citrus Sting: $6",
+                "Signature Cocktails: $12 - $14",
+                "Gelato/Ice Cream: $3 per scoop",
+                "Cappuccino: $3.85",
+                "Cafe Latte: $3.85",
+                "Single Shot Espresso: $2.25",
+                "Just Coffee(tm) Organic Coffee: $2.50",
+                "Harney and Sons Tea: $2.50"
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "bmm": [
+        {
+            "About": "BMM is a specialist software testing business in the areas of gaming certification and pre-compliance. BMM tests products from QA to regulatory approval, including slot platforms and games; casino accounting and management systems; progressive systems for slots and table games; and table game math and game rules.",
+            "Mission": "BMM aims to provide world-class testing and certification services and ensure the integrity and accountability of new gaming technology.",
+            "Products": [
+                "Slot platforms and games (class II and III)",
+                "Casino accounting and management systems",
+                "Progressive systems for slots and table games",
+                "Table game math and game rules",
+                "UAT testing for traditional lottery",
+                "New game and RNG evaluations for US lotteries",
+                "Platform testing in the internet gaming space",
+                "Slot and casino game testing",
+                "Integration testing of remote gaming servers into approved platforms"
+            ],
+            "Pricing": null,
+            "Customers": "BMM serves over 400 jurisdictions globally and supports regulators and manufacturers in the gaming industry.",
+            "Testimonials": [
+                {
+                    "name": "Thomas Jeffords",
+                    "role": "Executive Director of the Gaming Commission for the Red Cliff Band of Lake Superior Chippewa",
+                    "testimonial": "It was great information, really well presented. This is such a great way to enlighten everyone as to what is in the mix for iGaming."
+                },
+                {
+                    "name": "Brian D. Decorah",
+                    "role": "General Manager of the North Star Mohican Casino Resort",
+                    "testimonial": "An excellent 101 in online gaming. Over the past two days we have learned about current legislation, trends and costs associated with online gaming."
+                },
+                {
+                    "name": "Vince Cook",
+                    "role": "Regulatory Director for Little Traverse Band of Odawa Indians",
+                    "testimonial": "The workshop gave excellent information that not only provided knowledge, but helped me to formulate ideas on how to proceed."
+                }
+            ],
+            "Industries & Segments": [
+                "Gaming industry",
+                "Interactive and online markets",
+                "Traditional lottery",
+                "Internet gaming"
+            ]
+        }
+    ],
+    "openlane": [
+        {
+            "About": "The company provides a platform for sourcing and retailing a nationwide selection of vehicles, including dealer trades, exclusive off-lease cars, high-mileage vehicles, and luxury cars.",
+            "Mission": "To save time sourcing inventory and provide peace of mind for buying cars with confidence.",
+            "Products": [
+                "Dealer trades",
+                "Exclusive off-lease cars",
+                "High-mileage vehicles",
+                "Luxury cars",
+                "BlueLane account team",
+                "As Described Guarantee",
+                "Buyback Guarantee",
+                "Elite Dealer Program"
+            ],
+            "Pricing": [
+                "Sale fee based on dealership's performance tier",
+                "Low buy fees",
+                "Competitive buy fees"
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "Automotive dealerships"
+        }
+    ],
+    "qualia": [
+        {
+            "About": "Qualia powers real estate transactions across all 50 states, providing technology that brings together thousands of title & escrow agents, lenders, and real estate agents to streamline the closing experience.",
+            "Mission": "We are passionate about solving the challenges facing our communities to make it possible and easy to buy, sell, and own a home, restoring healthy homeownership to the United States.",
+            "Products": [
+                "Closing Services Providers",
+                "Enterprise Operations",
+                "Title Insurers",
+                "Qualia Platform",
+                "Assure",
+                "Atlas"
+            ],
+            "Pricing": null,
+            "Customers": "Qualia's technology is used by thousands of title & escrow agents, lenders, and real estate agents.",
+            "Testimonials": [
+                {
+                    "name": "Justin Swisher",
+                    "role": "Homebuyer",
+                    "testimonial": "Qualia was the single source of truth to have the visibility of all the parties I was communicating with and the documents I needed... it really helped me to keep track of every step in the process."
+                }
+            ],
+            "Industries & Segments": [
+                "Real Estate",
+                "Title & Escrow Companies",
+                "Mortgage Lenders"
+            ]
+        }
+    ],
+    "OptimalStation": [
+        {
+            "About": "Optimal Station provides comprehensive custom vending systems for use in automated retail, inventory control, and innovative marketing.",
+            "Mission": "Integrate age & ID verification solutions that create a safer world.",
+            "Products": [
+                "Age & ID Verification",
+                "Age Verification Station",
+                "Age Verifier Station Add-On",
+                "Clear View Jr.",
+                "Future 360deg Station",
+                "Classic 360deg Station",
+                "Easy Retrieve 270deg Station",
+                "Crane Station Extreme",
+                "Coffee Station",
+                "Photo Station",
+                "Interactive Ad Station",
+                "Charging Station",
+                "Clear View Tower Station"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Retail Stores",
+                "Bars & Nightclubs",
+                "Pharmacies",
+                "Cinemas & Entertainment Venues",
+                "Vending Machines",
+                "Casinos & Gambling",
+                "Airports",
+                "Hospitals & Care Facilities",
+                "Government Buildings",
+                "Hotels",
+                "Large Corporate Buildings",
+                "Malls",
+                "Schools, Colleges & Universities",
+                "Manufacturing Facilities",
+                "Gyms"
+            ]
+        }
+    ],
+    "hexcel": [
+        {
+            "About": "Hexcel is a leading producer of carbon fiber reinforcements, resin systems, and the world leader in honeycomb manufacturing for the commercial aerospace industry.",
+            "Mission": "To provide products and processes that satisfy the requirements of customers and provide cost-effective technology advances for the benefit of all.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": "Jessica, Early Career Leadership Program: \"What I love most about my job is that I get to collaborate with bright forward-thinking people who have a passion for composite materials and scientific innovation.\"",
+            "Industries & Segments": "Commercial aerospace industry."
+        }
+    ],
+    "katydidwholesale": [
+        {
+            "About": "Browse our wholesale clothing website to find exactly what you need exactly when you need it! Keep your store stocked and your customers happy with our unique wholesale boutique items, including our best-selling tumblers, trucker hats, wholesale slippers and so much more. We also have a great selection of cool wholesale gifts for any occasion.",
+            "Mission": "We design the awesome accessories that your customers are looking for, right here in the USA!",
+            "Products": [
+                "White Floral Stitched Wholesale Fall Sweater",
+                "Mint Floral Colorful Stitched Wholesale Sweater",
+                "Plum Wholesale Oversized Quilted Hobo Tote Bag for Women",
+                "Navy Wholesale Oversized Quilted Hobo Tote Bag",
+                "Forest Green Wholesale Oversized Quilted Hobo Tote Bag",
+                "Pink and Red Hearts Wholesale Loungewear Set",
+                "Black & Pink Mini Coquette Bows Loungewear Set",
+                "Multicolored Coquette Bows Wholesale Loungewear Set",
+                "Sequin SANTA Wholesale Cropped CORDUROY Shacket",
+                "Sequin FOOTBALL Wholesale Cropped CORDUROY Shacket",
+                "Blue/Gray Tartan Plaid Wholesale Women Shacket",
+                "Magenta/Purple Wholesale Plaid Shacket",
+                "trucker hats",
+                "graphic tees",
+                "slippers",
+                "wine tumblers",
+                "belt bags",
+                "sling bags",
+                "stainless steel tumblers"
+            ],
+            "Pricing": [
+                "$50 Minimum Orders"
+            ],
+            "Customers": "We sell to over 8,000 retail stores, salons, and boutiques annually.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "retail stores",
+                "salons",
+                "boutiques"
+            ]
+        }
+    ],
+    "opensourceconnections": [
+        {
+            "About": "OpenSource Connections helps organizations utilize search & AI to achieve meaningful results. They specialize in search engine platforms, generative AI, vector search, machine learning, and personalization.",
+            "Mission": "Our mission is to empower search teams and help organizations understand and own their search, solving problems of search relevancy and improving conversions, UX, and content relevance.",
+            "Products": [
+                "Think Like a Relevance Engineer - Solr",
+                "Think Like a Relevance Engineer - Elasticsearch",
+                "Think Like a Relevance Engineer - OpenSearch",
+                "Hello LTR - Learning to Rank"
+            ],
+            "Pricing": null,
+            "Customers": [
+                "FORTUNE 500 companies",
+                "Rubix Group, Europe's largest supplier of industrial MRO products and services"
+            ],
+            "Testimonials": [
+                {
+                    "name": "Joy Guerin",
+                    "role": "Product Owner, Job Search Team, Careerbuilder",
+                    "content": "We can't recommend OSC enough if you depend on search and want to make a significant impact on your business."
+                },
+                {
+                    "name": "Shaun Brazendale",
+                    "role": "Product owner for search at Rubix Group",
+                    "content": "Working with the team and their vast experience in search has helped level-up Rubix's maturity level in some key areas and deliver better search to our customer with measurable improvements."
+                }
+            ],
+            "Industries & Segments": [
+                "Healthcare",
+                "IT",
+                "Law",
+                "Retail",
+                "E-commerce",
+                "Financial services",
+                "Legal services",
+                "Software/technology"
+            ]
+        }
+    ],
+    "airbase": [
+        {
+            "About": "Airbase is a next-gen procure-to-pay platform that combines guided procurement, accounts payable automation, expense management, and a flexible corporate card program into one unified platform.",
+            "Mission": "We help finance teams control their destiny by meeting the needs of modern teams in their strategic roles, improving efficiency and productivity.",
+            "Products": [
+                "Airbase all-in-one spend management platform",
+                "Airbase card",
+                "Guided Procurement",
+                "Virtual Cards"
+            ],
+            "Pricing": null,
+            "Customers": "Companies with between 100 and 5,000 employees.",
+            "Testimonials": [
+                {
+                    "text": "Airbase has streamlined the bill pay process for us. Requests are easy to set up and get into approvals. Sending requests to other business partners who need to approve that spend is a lot easier. It's very user-friendly.",
+                    "name": null
+                }
+            ],
+            "Industries & Segments": [
+                "Finance",
+                "Accounting",
+                "Procurement"
+            ]
+        }
+    ],
+    "curativabay": [
+        {
+            "About": "Curativa Bay harnesses the best of nature and science to create skincare products that promote skin health, such as the innovative Hypochlorous Spray that offers protection and healing for the family.",
+            "Mission": "Our mission is to spread the word about the many benefits of Hypochlorous Acid (HOCL) skin spray and develop effective, all-natural skincare solutions. We strive to create products that increase skin health, repair sun damage, and result in more youthful-looking skin.",
+            "Products": [
+                "Hypochlorous Spray",
+                "Eye Creme",
+                "Diamond & Silk Regimen",
+                "Moisturizer Treatment for Sensitive Skin",
+                "Coconut Milk & Honey Moisturizer Cleanser",
+                "Deluxe Tropical Moisturizer"
+            ],
+            "Pricing": [
+                "Moisturizer Treatment for Sensitive Skin: $39.99-- or subscribe and save 10%",
+                "Coconut Milk & Honey Moisturizer Cleanser: $39.99-- or subscribe and save 10%",
+                "Deluxe Tropical Moisturizer: $39.99-- or subscribe and save 10%"
+            ],
+            "Customers": null,
+            "Testimonials": "Our customers say it best - Hypochlorous skin spray is 'Magic in a Bottle!'",
+            "Industries & Segments": "Curativa Bay products, such as Hypochlorous Acid solutions, are used in skincare and also in hospital-grade sanitizing and disinfectant solutions for home and work environments."
+        }
+    ],
+    "videate": [
+        {
+            "About": "Videate specializes in AI-powered, automated how-to and tutorial video production solutions, providing self-service support and scalable video creation for training and onboarding.",
+            "Mission": "Videate solves the problem of time-consuming and resource-heavy video production, especially for keeping training videos up-to-date with frequent software updates.",
+            "Products": [
+                "AI video generator",
+                "Text to speech video maker",
+                "Training video software",
+                "Customer success training software",
+                "Automatic video generator"
+            ],
+            "Pricing": null,
+            "Customers": [
+                "Bitsight",
+                "PeopleFluent",
+                "Docebo",
+                "IDEXX",
+                "Webex Events",
+                "Reputation",
+                "Nextiva",
+                "ASi"
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "Being able to create videos in 10% of the time and then being able to update videos in probably 3-4% of the time has been huge.",
+                    "name": null,
+                    "role": null
+                },
+                {
+                    "testimonial": "Reputation managed to slash their video production time by 90% by switching to Videate's software.",
+                    "name": null,
+                    "role": null
+                }
+            ],
+            "Industries & Segments": [
+                "SaaS",
+                "Software",
+                "Customer Success",
+                "Enterprise Software"
+            ]
+        }
+    ],
+    "castimages": [
+        {
+            "About": "Cast Images is a full-service licensed talent agency representing models, actors and kids. Cast Images develops and books talent for television, print, voice over, film, and runway.",
+            "Mission": "They strive to fill the needs of clients with incredible talent, attention to detail, and utmost integrity, aggressively pursuing career growth for their talent and excellent service for clients.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Cast Images works with clients throughout Northern California and out-of-town productions visiting Northern California.",
+            "Testimonials": [
+                {
+                    "Name": "Dustin Forrester",
+                    "Role": "Actor"
+                },
+                {
+                    "Name": "Alma Ponce",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Taylor Lambert",
+                    "Role": "Aura Casting"
+                },
+                {
+                    "Name": "Ayushi Chabra",
+                    "Role": "Actor"
+                },
+                {
+                    "Name": "Kathleen Williamson",
+                    "Role": "Adventura"
+                },
+                {
+                    "Name": "Emilio Mils",
+                    "Role": "Actor"
+                },
+                {
+                    "Name": "Barbara Ann Hardy",
+                    "Role": "CA Studio Teacher"
+                },
+                {
+                    "Name": "Zach Settewongse",
+                    "Role": "Client"
+                },
+                {
+                    "Name": "Aileen Del Rosario",
+                    "Role": "Parent"
+                },
+                {
+                    "Name": "K. Mary",
+                    "Role": "Owner, Krazy Mary's Boutique"
+                },
+                {
+                    "Name": "Heather Celeste",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Timothy Shonnard",
+                    "Role": "Photographer"
+                },
+                {
+                    "Name": "Sandy Her",
+                    "Role": "Parent"
+                },
+                {
+                    "Name": "Sarah Kliban",
+                    "Role": "International Talent Casting"
+                },
+                {
+                    "Name": "Julianne Gabert",
+                    "Role": "Casting Director"
+                },
+                {
+                    "Name": "Ira Chute",
+                    "Role": "Becker Media"
+                },
+                {
+                    "Name": "Jessica Benz",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Michelle Champoux",
+                    "Role": "Special Events Director, Sacramento News & Review"
+                },
+                {
+                    "Name": "Sharon Aikens",
+                    "Role": "Parent"
+                },
+                {
+                    "Name": "Richard Hallmark",
+                    "Role": "Designer"
+                },
+                {
+                    "Name": "Rory O'Shea",
+                    "Role": "Cast Images Talent"
+                },
+                {
+                    "Name": "Sara Cooper",
+                    "Role": "Sara Cooper Casting"
+                },
+                {
+                    "Name": "Richie Germinaro",
+                    "Role": "Producer/Director Fat Box Films"
+                },
+                {
+                    "Name": "Ellen Hancock",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Katie Rubin",
+                    "Role": "Actor"
+                },
+                {
+                    "Name": "Jennifer Borba",
+                    "Role": "Thielen Partners"
+                },
+                {
+                    "Name": "Katie Hinshaw",
+                    "Role": "Parent"
+                },
+                {
+                    "Name": "Jackie Christie",
+                    "Role": "Jackie Christie, Inc."
+                },
+                {
+                    "Name": "Debbie Hurst",
+                    "Role": "Sacramento Magazine"
+                },
+                {
+                    "Name": "Heather, Tiffany, Ghet, and Michael Shinn",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Sally Forcier",
+                    "Role": "Casting Director"
+                },
+                {
+                    "Name": "Jill Row",
+                    "Role": "Model Amy Row's mother"
+                },
+                {
+                    "Name": "Terry Haggart",
+                    "Role": "Dir. of Photography Good Evening Sacramento"
+                },
+                {
+                    "Name": "Jannette Eng",
+                    "Role": "Posit Science"
+                },
+                {
+                    "Name": "Daniel Lee",
+                    "Role": "Photographer, DKL Images"
+                },
+                {
+                    "Name": "Diane Legaspi",
+                    "Role": "Executive Marketing Consultants, Inc."
+                },
+                {
+                    "Name": "Kerri Petersen",
+                    "Role": "Water Pik Technologies"
+                },
+                {
+                    "Name": "Mary Mackey",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Michelle Silvester",
+                    "Role": "Mother"
+                },
+                {
+                    "Name": "Christopher Holley",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Sarah C. Kreutz",
+                    "Role": "Writer/Director/Producer Elsa Letterseed"
+                },
+                {
+                    "Name": "Melissa",
+                    "Role": "Mom of 2 children with Cast Images"
+                },
+                {
+                    "Name": "Carolyn Flood",
+                    "Role": "Talent"
+                },
+                {
+                    "Name": "Danielle and Pam Perry",
+                    "Role": "Model and Parent"
+                },
+                {
+                    "Name": "Sarah Poynter",
+                    "Role": "Talent"
+                }
+            ],
+            "Industries & Segments": "The company focuses on representing models, actors, and kids for television, print, voice over, film, and runway, targeting Northern California, especially the San Francisco Bay Area."
+        }
+    ],
+    "caa": [
+        {
+            "About": "EBG is an e-commerce solutions provider specializing in travel and entertainment, also offering retail products and services, voluntary benefits, and insurance.",
+            "Mission": null,
+            "Products": [
+                "TicketsatWork",
+                "Plum Benefits",
+                "Working Advantage",
+                "Beneplace",
+                "Undercover Tourist"
+            ],
+            "Pricing": null,
+            "Customers": "EBG serves over 40,000 corporate clients.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Travel",
+                "Entertainment",
+                "Retail",
+                "Insurance"
+            ]
+        }
+    ],
+    "dish": [
+        {
+            "About": "DISH Network is a television and satellite service provider offering a wide range of TV packages, streaming apps, and innovative receiver technology.",
+            "Mission": "DISH aims to bring TV to Small Town America and is committed to supporting active military, veterans, and their families. They focus on connecting Americans to TV with a future plan to build a nationwide wireless network.",
+            "Products": [
+                "Hopper Duo DVR",
+                "Hopper 2 DVR",
+                "Hopper 3 DVR",
+                "Joey Receiver",
+                "On Demand movies and shows",
+                "Voice Remote",
+                "DISH Anywhere",
+                "International TV Packages"
+            ],
+            "Pricing": [
+                "America's Top 120: $84.99/mo.",
+                "America's Top 200: $104.99/mo.",
+                "America's Top 250: $114.99/mo.",
+                "Hopper Duo DVR Features: $5/mo.",
+                "Hopper 2 DVR Features: $10/mo.",
+                "Hopper 3 DVR Features: $10/mo.",
+                "Joey Receiver: $7 ea./mo."
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Television and Satellite Service Provider",
+                "Disaster Recovery",
+                "Homes For Our Troops",
+                "Environmental Stewardship"
+            ]
+        }
+    ],
+    "trovatrip": [
+        {
+            "About": "TrovaTrip is the group travel company that offers a marketplace of vetted, local expert itineraries to Creators who want to take their online communities offline for life-changing experiences. It allows topic experts, creatives, and entrepreneurs to host trips around the globe with their communities.",
+            "Mission": "TrovaTrip is on a mission to help you find your community everywhere in the world by making travel safe, easy, and accessible.",
+            "Products": [
+                "Group travel platform for Content Creators",
+                "Curated itineraries",
+                "Pre-trip communications",
+                "Local Trip Operators"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "names": "Creators and Travelers",
+                    "industries": [
+                        "Content Creators",
+                        "Outdoor enthusiasts",
+                        "Yoga experts",
+                        "Travel influencers",
+                        "Foodies"
+                    ]
+                }
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "These trips are changing my life. I think it's doing something for the people on them too. We still show up for each other in ways no one knows about.",
+                    "name": "Ally Coucke",
+                    "role": "Content Creator, Author"
+                },
+                {
+                    "testimonial": "I know it can be intimidating to start off on this journey, but don't put a \"no\" in someone's mouth for them. You will be amazed how many people want to come together, find community, and explore the world.",
+                    "name": "Charlotte from Chicago",
+                    "role": "Professional traveler and AV geek"
+                },
+                {
+                    "testimonial": "The Greece trip with Darcy & Jer was an experience of a lifetime! I would do it all over again in a heartbeat.",
+                    "name": "Jonathan",
+                    "role": null
+                },
+                {
+                    "testimonial": "Traveling with Olivia and the group was like hanging out with your best friends you never knew you had! Each day was well-organized, we had the sweetest tour guide, and everyone who came became a new bff.",
+                    "name": "Javier",
+                    "role": null
+                },
+                {
+                    "testimonial": "Amazing experience, getting to know a bunch of new beautiful friends whilst enjoying the overwhelming majesty of Samui and Pha Ngan. I'm thankful for this adventure, sure there will be more!",
+                    "name": "Anonymous",
+                    "role": null
+                }
+            ],
+            "Industries & Segments": [
+                "Travel",
+                "Content creation",
+                "Community engagement"
+            ]
+        }
+    ],
+    "csnbrokers": [
+        {
+            "About": "CSN is a national sales agency backed by the experience and power of channel-specific and retailer-focused partners, providing consumer packaged goods (CPG) representation in the United States.",
+            "Mission": "CSN solves the complexity of working with multiple brokers by providing a single point of contact, while giving the rigorous resources of a national agency and intimate relationships of a regional partner.",
+            "Products": [
+                "Analytics Platforms",
+                "CRM System"
+            ],
+            "Pricing": null,
+            "Customers": "The CSN team is made up of leaders in the food and beverage industry across the country.",
+            "Testimonials": [
+                {
+                    "testimonial": "CSN brought us opportunities in new channels through their national breadth and great relationships.",
+                    "person": "Unnamed"
+                },
+                {
+                    "testimonial": "I'd award you 100 gold stars if I had any on hand.",
+                    "person": "Unnamed"
+                },
+                {
+                    "testimonial": "One of the best Administrative Teams I have ever worked with",
+                    "person": "Unnamed"
+                }
+            ],
+            "Industries & Segments": "Food and beverage industry"
+        }
+    ],
+    "flamel": [
+        {
+            "About": "Flamel.ai creates personalized social media content across multiple locations, turning franchisees into brand engines.",
+            "Mission": "Their mission was to make small business marketing easier than ever.",
+            "Products": [
+                "Social media scheduling",
+                "AI copywriting",
+                "Benchmarked analytics",
+                "Content best practices",
+                "AI campaigns",
+                "Integrated media editor"
+            ],
+            "Pricing": null,
+            "Customers": "Digital marketing agencies",
+            "Testimonials": [
+                {
+                    "testimonial": "Flamel.ai's ability to schedule content across multiple platforms has been a major time-saver for us. It simplifies our social media strategy and brings everything under one umbrella, making our workflow much more efficient.",
+                    "name": "Bill Beckham"
+                },
+                {
+                    "testimonial": "The simplicity of Flamel.AI is remarkable. It's user-friendly and far less complicated than other tools like HubSpot, making it ideal for managing social media or marketing.",
+                    "name": "Devin Curley"
+                },
+                {
+                    "testimonial": "With Flamel, my workflow has become incredibly efficient. I can now schedule posts in a fraction of the time, transforming my social media in a swift, stress-free process.",
+                    "name": "Fiona Schade"
+                },
+                {
+                    "testimonial": "Flamel.ai is a game-changer for me. It allows me to focus on running my beef jerky business while effortlessly creating engaging content for my social media platforms.",
+                    "name": "Cameron Jurgens"
+                },
+                {
+                    "testimonial": "Jumping into the SMM world back in 2017, I thought I'd seen it all. But Flamel has been a total game-changer. It's like having this awesome Swiss Army knife for social media - everything I need, all in one tab. Seriously, it's a lifesaver!",
+                    "name": "Candace Gasper"
+                }
+            ],
+            "Industries & Segments": [
+                "Digital marketing agencies",
+                "Franchisees"
+            ]
+        }
+    ],
+    "clevelandclinic": [
+        {
+            "About": "Cleveland Clinic was at the forefront of modern medicine when its founders opened it as a multi-specialty group practice in 1921. In its first century, Cleveland Clinic has introduced many medical firsts, opened facilities around the world and is proud to be ranked among the top hospitals in the country.",
+            "Mission": "The vision of the founders remains Cleveland Clinic's mission: caring for life, researching for health, and educating those who serve.",
+            "Products": [
+                "patient programs",
+                "novel medical technology",
+                "new medical products",
+                "clinical research",
+                "basic research"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "testimonial": "My journey with Dr. Gilligan, Dr. Weight and all the other members of this exploration team through unchartered waters is exciting. I've been very lucky with respect to the people I've traveled with."
+                },
+                {
+                    "testimonial": "After finding out I had lupus, there was a point when I couldn't even walk across my house without being out of breath and in extreme pain. Now, I spend most of my time enjoying motherhood and this family my husband and I weren't sure we would ever get to have."
+                }
+            ],
+            "Industries & Segments": [
+                "Cognitive disorders",
+                "Neurological disease",
+                "Cancer",
+                "Cardiovascular diseases",
+                "Metabolic diseases",
+                "Inflammation and immune system diseases"
+            ]
+        }
+    ],
+    "fabalish": [
+        {
+            "About": "Fabalish is a woman-founded and led plant-based company that makes comfort food dips and bites with premium ingredients and upcycled products.",
+            "Mission": "To make comfort food dips and bites with a best-for-you twist by using premium ingredients and upcycled products, and striving to use sustainable packaging.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "Plant-based food industry"
+        }
+    ],
+    "newyorklife": [
+        {
+            "About": "New York Life is the nation's largest mutual life insurance company focused on providing life insurance, financial security, and peace of mind through a variety of products and services.",
+            "Mission": "Providing financial security and peace of mind, offering responsibility and financial strength and supporting communities with diverse and inclusive policies.",
+            "Products": [
+                "Life insurance",
+                "Retirement planning",
+                "Structured Settlements",
+                "Guaranteed Products"
+            ],
+            "Pricing": null,
+            "Customers": [
+                "Policy owners",
+                "Financial professionals and clients of Group Membership Association Division"
+            ],
+            "Testimonials": [
+                {
+                    "name": "Lina Trujillo",
+                    "role": "Field Manager, South Florida General Office",
+                    "testimonial": "You don't have to know it all if you come to New York Life, because New York Life offers amazing resources."
+                }
+            ],
+            "Industries & Segments": [
+                "Institutional and advanced markets",
+                "Affinity clients",
+                "Structured settlements"
+            ]
+        }
+    ],
+    "retailfluent": [
+        {
+            "About": "Ruitenberg designs supermarket interiors for 500 customers in various locations including the New York metro area.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Supermarkets such as Giant Foods and A&P.",
+            "Testimonials": null,
+            "Industries & Segments": "Retail design, particularly for supermarkets."
+        }
+    ],
+    "remedystaffing": [
+        {
+            "About": "Remedy Intelligent Staffing is a national leader in professional staffing and workforce management solutions.",
+            "Mission": "Dedicated to getting good people good jobs, Remedy Intelligent Staffing aims to match what applicants do best with what client companies value most.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "Focuses on light industrial, clerical, skilled or professional jobs or staff."
+        }
+    ],
+    "askchapter": [
+        {
+            "About": "Memoir, Inc. d/b/a Chapter is a privately-owned, data and technology-enabled advisory that helps older Americans navigate retirement. Insurance agency services are provided by Chapter Advisory LLC, a licensed health insurance agency and wholly owned subsidiary of Memoir, Inc.",
+            "Mission": "Helping people understand their Medicare options and pick the best coverage for their needs.",
+            "Products": [
+                "Medicare Supplement (Medigap) plans",
+                "Medicare Advantage plans",
+                "Part D (prescription drug) plans"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": "Older Americans needing assistance with retirement and Medicare options."
+        }
+    ],
+    "cinesys": [
+        {
+            "About": "CineSys is a Broadcast and Media Systems Integrator providing solutions, integration and support for digital content creators across North America.",
+            "Mission": "To help companies get the most out of their technology investment, to accelerate workflows with cutting edge technology and strengthen infrastructures.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": "Customers range from small studios to large national companies in a variety of industries including broadcast, post production, government, corporate, agency, houses of worship and sports.",
+            "Testimonials": [
+                {
+                    "testimony": "CineSys has been a great asset to CMG, Indianapolis. We had a time sensitive project coming and needed a reliable shared storage solution for our Autodesk color grading, VFX, online, and finish facility. CineSys stepped up to the plate and delivered. Not only did they deliver a SAN solution for our boutique, but they worked to make it fit our budget and timeframe. Since it has been installed, support has been great. I appreciate the staff at CineSys and their dedication to customer support and service.",
+                    "name": "Marc Wellington",
+                    "role": "CMG"
+                },
+                {
+                    "testimony": "We (Global Team Blue) have been using CineSys for many years. Their knowledge of the industry and trends are a great resource when evaluating new gear. Every purchase is thoroughly vetted and discussed to make sure it meets our needs and also that the company will be around long after the purchase. When it comes to planning and installation. This is where CineSys shines.",
+                    "name": "Dean Dolce",
+                    "role": "Post Production Operations Director, The Park, GTB"
+                },
+                {
+                    "testimony": "Purchasing the DDP network server by Ardis was the best decision we made this year. We work as a small audio post-production team on fast-turnaround shows, and after demoing the unit we knew we could never go back to the old days of shuttling drives around each of our studios. CineSys was able to send us a demo unit to test out, and the day after we asked for it we were up and running. CineSys has been extremely helpful and responsive, and their team is the most efficient and knowledgeable group I have ever had the pleasure of working with. The DDP paid for itself within months, and it was the best investment in our workflow that our business could have made!",
+                    "name": null,
+                    "role": null
+                },
+                {
+                    "testimony": "CineSys has always been my go to for so many different services. They help with all my Autodesk purchases and support. They've helped me with hardware storage and network support. I'd highly recommend CineSys for any of your hardware and software needs.",
+                    "name": "Cory L.",
+                    "role": null
+                },
+                {
+                    "testimony": "CineSys offers excellent support and services. They are quite knowledgeable with a strong desire to help. Sales team works swiftly and gives out good advice about what works best. We use them for all our Autodesk products such as Flame, Maya and 3DS Max.",
+                    "name": "Steve M.",
+                    "role": null
+                },
+                {
+                    "testimony": "CineSys has been our valued partner for many years. We rely on their expertise for software management and tech support on all our Autodesk products. CineSys is very knowledgeable on all aspects of our industry. They're our go to source for information, support and guidance on a range of products we use in our facility. I highly recommend them for all your hardware and software needs.",
+                    "name": "I.R.",
+                    "role": null
+                },
+                {
+                    "testimony": "Strong service provider whom is very knowledgeable with the inner workings of the software, the hardware and the intricacies of the Media and Entertainment sector. They have a strong understanding of their customer needs and requirements, and work well to access resources within Autodesk to make sure systems and software deployments go smoothly. A valuable partner in providing solutions, and delivering excellence to their customers.",
+                    "name": "Neil D.",
+                    "role": null
+                }
+            ],
+            "Industries & Segments": [
+                "broadcast",
+                "post production",
+                "government",
+                "corporate",
+                "agency",
+                "houses of worship",
+                "sports"
+            ]
+        }
+    ],
+    "tascperformance": [
+        {
+            "About": "We make better apparel, so you can better.",
+            "Mission": "Sustainable, Comfort, Versatile, Performance",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "equalitync": [
+        {
+            "About": "Equality North Carolina (ENC) is the nation's oldest statewide organization committed to securing rights and protections for the LGBTQ community.",
+            "Mission": "Equality North Carolina builds LGBTQ power through advocacy, education, and uplifting the stories of queer and trans North Carolinians in pursuit of racial and social justice.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": [
+                {
+                    "name": "Anonymous Volunteer",
+                    "role": null,
+                    "content": "Equality NC did me the favor by giving me a place to channel my existential dread from the past four years into something productive. I feel like you all helped me more than I could ever give back."
+                }
+            ],
+            "Industries & Segments": [
+                "LGBTQ community advocacy",
+                "Racial and social justice"
+            ]
+        }
+    ],
+    "usbank": [
+        {
+            "About": "U.S. Bank provides banking and financial services, serving customers through digital products and services and a 26-state branch footprint.",
+            "Mission": "To serve customers through financial services, especially evident in efforts during times of need like the COVID-19 pandemic.",
+            "Products": [
+                "U.S. Bank Smart Assistant(tm)",
+                "Avvance installment loans",
+                "U.S. Bank credit cards",
+                "Checking and savings accounts",
+                "Certificate of deposit (CD)"
+            ],
+            "Pricing": [
+                "Annual percentage rate (APR) on Avvance installment loans (varies)",
+                "0% introductory APR for the first 15 billing cycles on certain credit cards",
+                "Balance transfer fee: 3% of each transfer amount, $5 minimum",
+                "Cash advance fee: 5% of each advance amount, $10 minimum"
+            ],
+            "Customers": {
+                "Names": null,
+                "Industries": [
+                    "Large public and private firms",
+                    "Financial institutions",
+                    "Government organizations",
+                    "Aerospace, defense and government services",
+                    "Middle market from agriculture to technology"
+                ]
+            },
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Corporate banking",
+                "Commercial banking",
+                "Small and scale-up business",
+                "Aerospace",
+                "Defense",
+                "Government services"
+            ]
+        }
+    ],
+    "seagate": [
+        {
+            "About": "Seagate provides data storage solutions, offering products and services for capturing, storing, and activating data through hardware, software, and services.",
+            "Mission": "Seagate aims to help enterprises profitably tackle exponential data growth by meeting challenges in edge-to-cloud environments and providing solutions for data management.",
+            "Products": [
+                "Lyve Cloud",
+                "Lyve Mobile",
+                "Exos systems",
+                "LaCie",
+                "IronWolf",
+                "Exos CORVAULT",
+                "FireCuda 530R SSD"
+            ],
+            "Pricing": [
+                "Simple, transparent pricing",
+                "No egress or API fees"
+            ],
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Healthcare",
+                "IoT",
+                "Media and Entertainment",
+                "Surveillance"
+            ]
+        }
+    ],
+    "travelstore": [
+        {
+            "About": "TravelStore is an employee-owned travel management company that provides personalized travel services for businesses and vacationers, including vacation travel, business travel, and incentive & group travel.",
+            "Mission": "TravelStore helps clients by developing durable corporate travel programs that meet the needs of all stakeholders, providing superior service and value for travel arrangements.",
+            "Products": [
+                "Vacation travel",
+                "Business travel",
+                "Incentive & group travel",
+                "Hotels",
+                "Trains",
+                "River cruises",
+                "Safari lodges",
+                "Mediterranean cruises",
+                "Thailand, Cambodia, & Vietnam cruise",
+                "Travelex Insurance Services protection plan",
+                "Global Entry",
+                "Smart Traveler Enrollment Program",
+                "CLEAR membership"
+            ],
+            "Pricing": [
+                "Monthly payment plan with simple interest rates for travel arrangements",
+                "Two-month complimentary CLEAR+ membership"
+            ],
+            "Customers": [
+                {
+                    "name": "Spirent Communications",
+                    "industry": "Telecommunications"
+                },
+                {
+                    "name": "Lowe",
+                    "industry": "Real estate"
+                },
+                {
+                    "description": "A non-profit organization"
+                },
+                {
+                    "description": "A boutique independent investment partnership based in Los Angeles"
+                },
+                {
+                    "description": "State of California (optional users of the statewide travel program)",
+                    "industry": "Government"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Nancy L",
+                    "role": "Business Client",
+                    "content": "TravelStore has been my godsend for years. No matter who I get when I call I get excellent help."
+                },
+                {
+                    "name": "Chris V.D.",
+                    "role": "Business Client",
+                    "content": "Your terrific responsiveness to the recent incidents affecting the travel industry and our firm is commendable."
+                },
+                {
+                    "name": "Natalie R.",
+                    "role": "Business Client",
+                    "content": "People who will go that 'extra mile'... Thank you very much for your assistance."
+                }
+            ],
+            "Industries & Segments": [
+                "Telecommunications",
+                "Real estate",
+                "Non-profit organizations",
+                "Investment partnerships",
+                "Government travel management"
+            ]
+        }
+    ],
+    "accelerationpartners": [
+        {
+            "About": "Acceleration Partners is an integrated global partnerships agency that creates and nurtures partnerships to drive measurable outcomes for clients, across multiple industry verticals.",
+            "Mission": "The company solves for creating exceptional, measurable outcomes for clients by leveraging industry expertise to provide unique solutions to complex challenges.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": [
+                "Top brands across industries such as Allbirds, Reebok, Swarovski, Cardlytics x Lulus, Crocs, Redbubble, LD Products"
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "Acceleration Partners' excellent strategic support and strong local resources have significantly contributed in the growth of our global affiliate program.",
+                    "name": "Swarovski"
+                },
+                {
+                    "testimonial": "Acceleration Partners is a strong agency with good expertise, timely responses, and a strong knowledge of regional partners.",
+                    "name": "Crocs"
+                },
+                {
+                    "testimonial": "The team at Acceleration Partners have shown an enormous amount of passion for our brand and mission.",
+                    "name": "Redbubble"
+                },
+                {
+                    "testimonial": "The AP team has been invaluable during our transition to Impact by helping to organize the entire process.",
+                    "name": "LD Products"
+                },
+                {
+                    "testimonial": "Through Acceleration Partners' strategic recommendations, the affiliate channel has become a high performing digital marketing channel.",
+                    "name": "Reebok"
+                }
+            ],
+            "Industries & Segments": [
+                "Performance partnerships, affiliate, influencer, performance PR, content, and B2B marketing."
+            ]
+        }
+    ],
+    "weareamnet": [
+        {
+            "About": "We Are Amnet is an independent global creative production studio and leader in Smartshoring; a hybrid model of offshore hubs and regional client service teams. They provide unmatched creative production services across the globe.",
+            "Mission": "To deliver production certainty for in-house teams, agencies and brands, helping them stay competitive, increase profits, ensure consistent customer experiences, and accelerate growth.",
+            "Products": [
+                "Joule",
+                "Content Management",
+                "Corporate Communications",
+                "Financial Communications",
+                "Diversity, equity, and inclusion services",
+                "Employee Engagement",
+                "Accessibility Services & ADA Compliance",
+                "Creative Production",
+                "Image Services",
+                "Publications & Reports",
+                "Photography",
+                "Packaging",
+                "Retail Marketing",
+                "Transcreation & Localisation",
+                "CGI, Video & Motion",
+                "Digital & Social"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "name": "Nestle",
+                    "industry": "FMCG"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Julie Loaiza",
+                    "role": "Nestle",
+                    "testimonial": "Offshoring has dramatically and positively changed the way we plan and execute our marketing strategies. It helps us achieve marketing production efficiencies."
+                },
+                {
+                    "name": "Marcelo Gandola",
+                    "role": "CEO, North America, Chimney Group",
+                    "testimonial": "In today's rapidly growing world of content needs we become more efficient and global by Smartshoring."
+                }
+            ],
+            "Industries & Segments": [
+                "Financial",
+                "Real Estate",
+                "Pharmaceutical",
+                "Health / Beauty",
+                "FMCG",
+                "Drinks",
+                "Fashion",
+                "Retail"
+            ]
+        }
+    ],
+    "neoreach": [
+        {
+            "About": "At NeoReach, we've built a platform that solves both of these challenges. Our platform makes it easy for you to find awesome content selected just for you, and earn a fair share of the profit you create for companies by sharing their content.",
+            "Mission": "Personalization of content and getting paid for sharing great content and building an engaged online audience.",
+            "Products": [
+                "Influencer marketing campaigns",
+                "NeoReach platform"
+            ],
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Social media marketing",
+                "Influencer marketing"
+            ]
+        }
+    ],
+    "walgreensbootsalliance": [
+        {
+            "About": "Walgreens Boots Alliance is an integrated healthcare, pharmacy and retail leader serving millions of customers and patients every day, with a 170-year heritage of caring for communities. The company operates over 12,500 locations across the U.S., Europe and Latin America, and plays a critical role in the healthcare ecosystem by dispensing medicines, improving access to health services, and providing health and beauty products.",
+            "Mission": "To create more joyful lives through better health by reimagining local healthcare and well-being for all.",
+            "Products": [
+                "Medicines",
+                "Health services",
+                "Beauty products",
+                "Digital platforms for convenience"
+            ],
+            "Pricing": null,
+            "Customers": "WBA serves millions of customers and patients every day and has a significant presence in the U.S. with large retail chains like Walgreens and Duane Reade.",
+            "Testimonials": null,
+            "Industries & Segments": [
+                "Healthcare",
+                "Pharmacy",
+                "Retail",
+                "Beauty"
+            ]
+        }
+    ],
+    "datadoghq": [
+        {
+            "About": "Datadog is a monitoring service for infrastructure and applications.",
+            "Mission": "Datadog assists customers in optimizing performance, scalability, and cost-effectiveness, and helps extract valuable insights from data.",
+            "Products": [
+                "Datadog Service Catalog Metadata Provider",
+                "Datadog APM",
+                "Datadog Logs",
+                "Amazon Bedrock integration",
+                "Datadog's observability platform"
+            ],
+            "Pricing": null,
+            "Customers": [
+                {
+                    "name": "Mike Stemle",
+                    "company": "Arc XP"
+                },
+                {
+                    "name": "Kristina Kondrashevich",
+                    "company": "Electrolux"
+                },
+                {
+                    "name": "Benjamen Pyle",
+                    "company": "Pyle Cloud Technologies"
+                },
+                {
+                    "name": "Suraj Tikoo",
+                    "company": "Accenture"
+                },
+                {
+                    "name": "Santiago Gomez Saez",
+                    "company": "Volkswagen Group"
+                },
+                {
+                    "name": "Ashley Parks",
+                    "company": "Toyota Connected"
+                },
+                {
+                    "name": "Ibukun Itimi",
+                    "company": "Lyft"
+                },
+                {
+                    "name": "Ichiro Kano",
+                    "company": "TOSHIBA Digital Solutions"
+                }
+            ],
+            "Testimonials": [
+                {
+                    "name": "Senior Staff Reliability engineer",
+                    "company": "Zendesk",
+                    "statement": "Datadog is at the core of our observability stack."
+                }
+            ],
+            "Industries & Segments": [
+                "travel tech",
+                "hospitality",
+                "education",
+                "real estate",
+                "finance",
+                "cloud consultancy",
+                "B2B energy company",
+                "restaurant tech",
+                "automotive"
+            ]
+        }
+    ],
+    "chapman": [
+        {
+            "About": "Ranked #133 out of 439 top-tier universities, Chapman offers students personalized educational opportunities with a world-class faculty. It is an R2 research institute supporting diverse programs, projects, and centers with over $14M in annual research funding.",
+            "Mission": "Chapman rises to the challenges of a changing world through distinctive research and teaching, confronting urgent problems such as food shortages, health care, and environmental impacts.",
+            "Products": null,
+            "Pricing": null,
+            "Customers": null,
+            "Testimonials": null,
+            "Industries & Segments": null
+        }
+    ],
+    "funny-business": [
+        {
+            "About": "Funny Business Agency is an entertainment booking agency that connects clients with comedians and entertainers for corporate events, fundraisers, company retreats, holiday parties, sales meetings, industry conferences, and virtual events.",
+            "Mission": null,
+            "Products": null,
+            "Pricing": null,
+            "Customers": [
+                "Warby Parker",
+                "ServiceNow",
+                "Change Healthcare",
+                "SmithBucklin",
+                "The Home Depot",
+                "JP Morgan Chase",
+                "nCino"
+            ],
+            "Testimonials": [
+                {
+                    "testimonial": "The audience was in stitches the entire time and kept commenting throughout how entertaining/relevant Dwayne was in his performance.",
+                    "name": "Brooke Pothast",
+                    "role": "ServiceNow"
+                },
+                {
+                    "testimonial": "Working with Funny Business was easy because their team is so responsive. They provided me with a list of options that fit my audience and budget. I ended up with a great comedy show at my event.",
+                    "name": "Meghan Scott",
+                    "role": "Warby Parker"
+                },
+                {
+                    "testimonial": "We had a fatigued team working remotely, and FBA's talent was able to spark a lot of joy and laughter for us. We're hearing amazing feedback from the team about the event.",
+                    "name": "Stefanie Groner",
+                    "role": "Change Healthcare"
+                },
+                {
+                    "testimonial": "Funny Business Agency was so great to work with! We used Trivia with Budds for our closing virtual event and our attendees had a BLAST! They all commented asking if we could have Ryan join us in-person next year.",
+                    "name": "Erin DeFouw",
+                    "role": "SmithBucklin"
+                },
+                {
+                    "testimonial": "FBA was wonderful to work with, they respond quickly, communicate efficiently and make you feel completely taken care of at all times.",
+                    "name": "Amy Omas",
+                    "role": "The Home Depot"
+                },
+                {
+                    "testimonial": "Funny Business went above and beyond to accommodate my corporate event request. We had some out-of-the norm stipulations due to corporate policy which they were able to work with us on. Alicia was super attentive to my calls and emails - leaving no questions unanswered.",
+                    "name": "JP Morgan Chase"
+                },
+                {
+                    "testimonial": "The Funny Business Agency was incredible to work with! They helped send over options of talent to look into as I wasn't sure what exactly I wanted when I initially reached out. We worked together to find a perfect fit.",
+                    "name": "Alice Cox",
+                    "role": "nCino"
+                }
+            ],
+            "Industries & Segments": [
+                "corporate events",
+                "fundraisers",
+                "company retreats",
+                "holiday parties",
+                "sales meetings",
+                "industry conferences",
+                "virtual events"
+            ]
+        }
+    ]
+}

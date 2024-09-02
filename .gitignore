@@ -2,3 +2,4 @@ logs/
 websites/
 to_scrape/
 scraped/
+.DS_Store
