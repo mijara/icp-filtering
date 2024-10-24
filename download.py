@@ -149,7 +149,7 @@ def main():
         os.makedirs('scraped', exist_ok=True)
         logging.info('Created "scraped" directory.')
 
-        with open('iiq.txt', 'r') as infile:
+        with open('leads.txt', 'r') as infile:
             websites = infile.readlines()
 
         with ThreadPoolExecutor(max_workers=8) as executor:

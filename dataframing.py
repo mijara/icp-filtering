@@ -81,26 +81,26 @@ def clean_url(url):
         return url
 
 def main():
-    directory_path = '/Users/jidin/icp-filtering/' 
+    directory_path = '/Users/akshaymijar/icp-filtering' 
     websites_df = load_and_concatenate_files(directory_path)
     print("Loaded website data into dataframe.")
-    print(websites_df.info())
-    # leads_df=pd.read_csv("/Users/jidin/icp-filtering/RB2B leads_ICP.csv")
-    # filtered_df = leads_df[leads_df['Website'].apply(is_valid_url)]
-    # filtered_df = filtered_df[filtered_df['LinkedInUrl'].apply(is_valid_url)]
-    # columns_subset = ['LinkedInUrl','Title','Website','CompanyName']
-    # final_df = filtered_df[columns_subset]
-    # leads_final_df=final_df.copy()
-    # leads_final_df['website'] = leads_final_df['Website'].apply(clean_url)
-    # print("Loaded leads sheet, cleaned up the website urls to join on.")
-    # print(leads_final_df.info())
-    # downloaded_websites=set(sorted(websites_df["website"].to_list()))
-    # lead_websites=set(sorted(leads_final_df["website"].to_list()))
-    # print(f"No. of downloaded websites: {len(downloaded_websites)} No. of lead websites: {len(lead_websites)}")
-    # leads_final_df = leads_final_df[leads_final_df['website'].isin(downloaded_websites)]
-    # result_df = pd.merge(leads_final_df, websites_df, on='website', how='left')
-    # result_df.to_excel('lead_website_contents.xlsx', index=False)
-    # print("Lead website sheets concatenated with website content")
+    #print(websites_df.info())
+    leads_df=pd.read_csv("/Users/akshaymijar/icp-filtering/rb2b30cleaned.csv")
+    filtered_df = leads_df[leads_df['Website'].apply(is_valid_url)]
+    filtered_df = filtered_df[filtered_df['LinkedInUrl'].apply(is_valid_url)]
+    columns_subset = ['LinkedInUrl','Title','Website','CompanyName']
+    final_df = filtered_df[columns_subset]
+    leads_final_df=final_df.copy()
+    leads_final_df['website'] = leads_final_df['Website'].apply(clean_url)
+    print("Loaded leads sheet, cleaned up the website urls to join on.")
+    print(leads_final_df.info())
+    downloaded_websites=set(sorted(websites_df["website"].to_list()))
+    lead_websites=set(sorted(leads_final_df["website"].to_list()))
+    print(f"No. of downloaded websites: {len(downloaded_websites)} No. of lead websites: {len(lead_websites)}")
+    leads_final_df = leads_final_df[leads_final_df['website'].isin(downloaded_websites)]
+    result_df = pd.merge(leads_final_df, websites_df, on='website', how='left')
+    result_df.to_excel('lead_website_contents_newrun.xlsx', index=False)
+    print("Lead website sheets concatenated with website content")
     
 if __name__ == "__main__":
     main()
